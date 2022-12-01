@@ -2,4 +2,5 @@ collections:
   our-origin:
     output: true
     order:
+      - School Information/School Services.md
       - School Information/.keep
