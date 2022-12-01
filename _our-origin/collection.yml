@@ -1,4 +1,5 @@
 collections:
   our-origin:
     output: true
-    order: []
+    order:
+      - School Information/.keep
