@@ -242,7 +242,7 @@ img {
 </body>
 
 <ul>
-<li><strong>Rationale and intent:<br>♦</strong>  Develop values and character as students learn from and share knowledge with the seniors<br>♦  Enable students to learn and apply both leadership and communication skills<br>♦  Develop a sense of empathy for others and respect towards the older generation</li>
+<li><strong>Rationale and intent:</strong><br>♦  Develop values and character as students learn from and share knowledge with the seniors<br>♦  Enable students to learn and apply both leadership and communication skills<br>♦  Develop a sense of empathy for others and respect towards the older generation</li>
 </ul>
 <style>  
 img {  
@@ -272,10 +272,50 @@ img {
     <input type="checkbox" id="accordion14">
     <label for="accordion14"><h4>Primary 4-6: Lead the school through Action</h4></label>
     <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>        <li>Item 3</li>
-      </ol>
+      <h4 style="color:black" align="center">Care for the Underprivileged:<br>Donation Drive</h4>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-19c-300x159.png" alt="Donation Drive" style="width:50%;">  
+  
+</body>
+
+<ul>
+<li><strong>Objective:</strong><br>♦ To instill the value of compassion and empathy towards others who need additional support</li>
+</ul>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-19.jpg" alt="Donation Drive" style="width:90%;">  
+  
+</body>
+
+<ul>
+<li><p><strong>Rationale and intent:</strong> <br>
+♦  Reach out to the less fortunate through a food and stationery distribution programme<br>♦  Share passionately with needy families<br>♦  Understand social issues and needs at a deeper level</p>
+</li>
+<li><p><strong>Examples of Donation Drives:</strong><br>♦  Food Donation Drive (Pri 4 &amp; 5)<br>♦  Stationery Donation Drive (Pri 4 &amp; 5)</p>
+</li>
+</ul>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-19b.jpeg" alt="Donation Drive" style="width:70%;">  
+  
+</body>
     </div>
   </li>
 </ul>
@@ -292,5 +332,4 @@ img {
 <body><img src="LMAOOO" alt="HAHAHAHA" style="width:50%;">  
   
 </body>
-
 
