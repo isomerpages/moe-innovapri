@@ -2,6 +2,7 @@ collections:
   our-origin:
     output: true
     order:
+      - School Song & Crest.md
       - School Information/School Rules.md
       - School Information/School Hours.md
       - School Information/School Attire.md
