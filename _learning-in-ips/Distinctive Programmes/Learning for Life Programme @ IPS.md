@@ -145,9 +145,80 @@ img {
     <input type="checkbox" id="accordion12">
     <label for="accordion12"><h4>Primary 3-5: Lead class to serve the community</h4></label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <h4 style="color:black" align="center">Care for the Environment:<br>School and Community Needs</h4>
+
+<ul>
+<li><strong>Objective:</strong><br>♦ To help support some of school and community needs </li>
+<li><strong>Rationale and intent:<br>♦</strong>  Initiate environmental projects such as &#39;Anti-Littering&#39; in school and the community<br><strong>♦</strong>  Learn important environmental messages and share with their family members<br><strong>♦</strong>  Be adaptable, innovative and able to communicate well with others</li>
+</ul>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-12a-150x150.png" alt="Care for the Environment: School and Community Needs" style="width:30%;">  
+  
+</body>
+<br>
+
+<hr>
+<h4 style="color:rgb(224, 112, 43);" align="center">(Pri 3 & 4) Care for the Environment: School Needs</h4>
+
+<ul>
+<li><strong>Adopt the Canteen</strong><br>♦ Each class will be responsible for the cleanliness of the canteen for a week</li>
+</ul>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-12bc.jpg" alt="Each class will be responsible for the cleanliness of the canteen for a week" style="width:80%;">  
+  
+</body>
+<br>
+
+<hr>
+<h4 style="color:rgb(224, 112, 43);" align="center">(Pri 5) Care for the Environment:<br>Keep Singapore Clean Movement</h4>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-13c.png" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:30%;">  
+  
+</body>
+
+<ul>
+<li><strong>Project Titles:</strong><br>♦ Keep Singapore Clean through Colourful Bins<br>♦ Colourful Recycle Bags Today, A More Beautiful Singapore Tomorrow<br>♦ Bright Spot programme with NWCDC</li>
+</ul>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP13.jpg" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:80%;">
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-14.png" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:90%;">  
+  
+</body>
     </div>
   </li>
   <li>
@@ -182,88 +253,5 @@ img {
 }  
 </style>  
 <body><img src="LMAOOO" alt="School Uniform" style="width:50%;">  
-  
-</body>
-
-
-<h4 style="color:black" align="center">Care for the Environment:<br>School and Community Needs</h4>
-
-*   **Objective:**  
-    ♦ To help support some of school and community needs 
-*   **Rationale and intent:  
-    ♦**  Initiate environmental projects such as 'Anti-Littering' in school and the community  
-    **♦**  Learn important environmental messages and share with their family members  
-    **♦**  Be adaptable, innovative and able to communicate well with others
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/LLP-12a-150x150.png" alt="Care for the Environment: School and Community Needs" style="width:30%;">  
-  
-</body>
-<br>
-
-----
-
-<h4 style="color:rgb(224, 112, 43);" align="center">(Pri 3 & 4) Care for the Environment: School Needs</h4>
-
-*   **Adopt the Canteen**  
-    ♦ Each class will be responsible for the cleanliness of the canteen for a week
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/LLP-12bc.jpg" alt="Each class will be responsible for the cleanliness of the canteen for a week" style="width:80%;">  
-  
-</body>
-<br>
-
----
-
-<h4 style="color:rgb(224, 112, 43);" align="center">(Pri 5) Care for the Environment:<br>Keep Singapore Clean Movement</h4>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/LLP-13c.png" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:30%;">  
-  
-</body>
-
-*   **Project Titles:**  
-    ♦ Keep Singapore Clean through Colourful Bins  
-    ♦ Colourful Recycle Bags Today, A More Beautiful Singapore Tomorrow  
-    ♦ Bright Spot programme with NWCDC
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/LLP13.jpg" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:80%;">
-  
-</body>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/LLP-14.png" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:90%;">  
   
 </body>
