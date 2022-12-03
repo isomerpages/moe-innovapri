@@ -253,7 +253,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:50%;">  
+<body><img src="/images/LLP13.jpg" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:80%;">
   
 </body>
 
@@ -264,6 +264,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:50%;">  
+<body><img src="/images/LLP-14.png" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:90%;">  
   
 </body>
