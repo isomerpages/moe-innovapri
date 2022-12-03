@@ -34,4 +34,4 @@ description: ""
 
 ### Voices from our Student Leaders and fellow teachers
 
-[Click to view the stories!](https://innovapri.moe.edu.sg/wp-content/uploads/2019/04/Innova-Primary-School-Good-Stories-Book-content-v5.pdf)
+[Click to view the stories!](/files/Innova-Primary-School-Good-Stories-Book-content-v5.pdf)
