@@ -252,6 +252,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="School Uniform" style="width:50%;">  
+<body><img src="LMAOOO" alt="HAHAHAHA" style="width:50%;">  
   
 </body>
