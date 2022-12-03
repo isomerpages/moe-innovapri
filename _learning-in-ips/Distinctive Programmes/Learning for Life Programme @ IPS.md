@@ -73,13 +73,28 @@ img {
   </li>
   <li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion10"><h4> Active Recess Programme</h4>
+    <label for="accordion10"><h4>Active Recess Programme</h4>
 </label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
+      <ul>
+<li><p><strong>Objective:</strong> To provide students with opportunities for both positive play and experiences in learning to work and to play with their peers</p>
+</li>
+<li><p><strong>Rationale and intent:</strong></p>
+<p>♦ Resolve conflicts</p>
+<p>♦ Provide leadership opportunities</p>
+<p>♦ Take responsibility for loaned sports/game equipment</p>
+</li>
+</ul>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-7.jpeg" alt="Active Recess Programme" style="width:90%;">  
+  
+</body>
     </div>
   </li>
 </ul>
