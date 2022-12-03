@@ -7,16 +7,18 @@ third_nav_title: CCA
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion15">
-    <label for="accordion15">Simple</label>
+    <label for="accordion15"><h5 id="when-can-my-childward-apply-for-a-cca">When can my child/ward apply for a CCA?</h5>
+</label>
     <div>
-      <p>LMAOO</p>
+      <p>The CCA Updating Exercise is held around Term 2 Week 5 annually. A form will be sent via Parents Gateway for you to apply for a CCA for your child/ward. Your child/ward will receive the consent form from their assigned CCA teacher before Term 3.</p>
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion16">
-    <label for="accordion16">Multi-line Block</label>
+    <label for="accordion16"><h5 id="which-levels-can-apply-for-a-cca">Which levels can apply for a CCA?</h5>
+</label>
     <div>
-      <p>LMAOO</p>
+      <p>Currently, CCAs are open to Primary 2 - Primary 6 students only. Primary 1 students who wish to participate in CCAs need to provide evidence of their talent area(s) that will be considered and special provisions can be made to include them in the specified CCA.</p>
     </div>
   </li>
   <li>
@@ -83,3 +85,4 @@ third_nav_title: CCA
     </div>
   </li>
 </ul>
+
