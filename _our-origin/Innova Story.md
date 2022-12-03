@@ -6,7 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion1">Our Story</label>
+    <label for="accordion6"><h4>Our Story</h4></label>
     <div>
       <p><strong>Innovians</strong>, come to Innova Primary School with a sparkle in their eyes, passion in their hearts and a bounce in step; energized by their courage and dare to dream. Innova is more than a school. It is home away from home for many, a place where it is safe to dream, to strive for a different vision of teaching and learning; and most of all it is a place to realize one’s hopes and aspirations.</p>
 <p>At Innova we know the future is built on strong fundamentals. Hence we seek to nurture individuals of exemplary character, through the inculcation of the <strong>ISTAR</strong> values in all Innovians. We also believe in equipping all Innovians with the knowledge and skills needed to excel academically in the languages and sciences. These form the bedrock for future learning, adventures in the intellectual realm and ultimately contributing to the greater good of society. We recognize the need to balance a strong core curricular programme with a co-curricular programme that develops the child holistically while providing opportunities for them to develop socially. The integration of all our programmes achieves all the above and provides our students with a unique Innova experience where “Learning is an Adventure.”</p>
@@ -15,7 +15,7 @@ description: ""
 	</li>  
   <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion2">Our Philosophy</label>
+    <label for="accordion7"><h4>Our Philosophy</h4></label>
     <div>
       <p><strong>Our Focus</strong></p>
 <ul>
