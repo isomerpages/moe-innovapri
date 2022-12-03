@@ -224,6 +224,11 @@ img {
 <body><img src="/images/LLP-12bc.jpg" alt="Each class will be responsible for the cleanliness of the canteen for a week" style="width:80%;">  
   
 </body>
+<br>
+
+---
+
+<h4 style="color:rgb(224, 112, 43);" align="center">(Pri 5) Care for the Environment:<br>Keep Singapore Clean Movement</h4>
 
 <style>  
 img {  
@@ -232,7 +237,23 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/LLP-13c.png" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:30%;">  
+  
+</body>
+
+*   **Project Titles:**  
+    ♦ Keep Singapore Clean through Colourful Bins  
+    ♦ Colourful Recycle Bags Today, A More Beautiful Singapore Tomorrow  
+    ♦ Bright Spot programme with NWCDC
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:50%;">  
   
 </body>
 
@@ -243,17 +264,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="School Uniform" style="width:50%;">  
-  
-</body>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="LMAOOO" alt="School Uniform" style="width:50%;">  
+<body><img src="LMAOOO" alt="(Pri 5) Care for the Environment: Keep Singapore Clean Movement" style="width:50%;">  
   
 </body>
