@@ -2,6 +2,7 @@ collections:
   our-origin:
     output: true
     order:
+      - School Leaders.md
       - Innova Story.md
       - Vision, Mission & Values.md
       - School Song & Crest.md
