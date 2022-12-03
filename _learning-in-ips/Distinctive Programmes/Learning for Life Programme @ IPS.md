@@ -322,14 +322,3 @@ img {
 
 _Last Updated: 03/2020_
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="LMAOOO" alt="HAHAHAHA" style="width:50%;">  
-  
-</body>
-
