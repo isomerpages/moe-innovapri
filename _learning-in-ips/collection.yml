@@ -2,5 +2,6 @@ collections:
   learning-in-ips:
     output: true
     order:
+      - Distinctive Programmes/Learning for Life Programme @ IPS.md
       - Distinctive Programmes/.keep
       - IPS Avatars.md
