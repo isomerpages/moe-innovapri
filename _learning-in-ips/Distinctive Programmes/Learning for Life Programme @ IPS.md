@@ -51,7 +51,24 @@ img {
     <input type="checkbox" id="accordion9">
     <label for="accordion9"><h4>Tri-generational Learning @Innova (3G @ IPS)</h4></label>
     <div>
-      <p>This is line 1</p>
+      <p>A programme where Innova Primary School conducts monthly visit to seniors residing at different Homes to foster friendships and to interact with the seniors</p>
+<ul>
+<li><p><strong>Rationale and intent:</strong></p>
+<p>♦ Forging tri-generational bonding between the students, teachers and the seniors</p>
+<p>♦ Promoting active living by enhancing mental and social well-being among seniors</p>
+<p>♦ Improving public perception and attitude towards ageing</p>
+</li>
+</ul>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-6.jpeg" alt="Tri-generational Learning @Innova (3G @ IPS)" style="width:65%;">  
+  
+</body>
     </div>
   </li>
   <li>
