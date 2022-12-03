@@ -186,4 +186,74 @@ img {
 </body>
 
 
+<h4 style="color:black" align="center">Care for the Environment:<br>School and Community Needs</h4>
 
+*   **Objective:**  
+    ♦ To help support some of school and community needs 
+*   **Rationale and intent:  
+    ♦**  Initiate environmental projects such as 'Anti-Littering' in school and the community  
+    **♦**  Learn important environmental messages and share with their family members  
+    **♦**  Be adaptable, innovative and able to communicate well with others
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-12a-150x150.png" alt="Care for the Environment: School and Community Needs" style="width:30%;">  
+  
+</body>
+<br>
+
+----
+
+<h4 style="color:rgb(224, 112, 43);" align="center">(Pri 3 & 4) Care for the Environment: School Needs</h4>
+
+*   **Adopt the Canteen**  
+    ♦ Each class will be responsible for the cleanliness of the canteen for a week
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-12bc.jpg" alt="Each class will be responsible for the cleanliness of the canteen for a week" style="width:80%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="School Uniform" style="width:50%;">  
+  
+</body>
