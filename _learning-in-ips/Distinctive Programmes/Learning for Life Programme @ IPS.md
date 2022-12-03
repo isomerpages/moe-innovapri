@@ -108,14 +108,14 @@ img {
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11">Simple</label>
+    <label for="accordion11"><h4>Primary 1-3: Lead Self</h4></label>
     <div>
       <p>This is a simple one line item</p>
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12">Multi-line Block</label>
+    <label for="accordion12"><h4>Primary 3-5: Lead class to serve the community</h4></label>
     <div>
       <p>This is line 1</p>
       <p>This is line 2<br>
@@ -124,7 +124,7 @@ img {
   </li>
   <li>
     <input type="checkbox" id="accordion13">
-    <label for="accordion13">Multi-line Folded</label>
+    <label for="accordion13"><h4>Primary 4-5 Student Leaders: Lead by Example</h4></label>
     <div>
       <p>
         This is all going
@@ -134,7 +134,7 @@ img {
   </li>
   <li>
     <input type="checkbox" id="accordion14">
-    <label for="accordion14">Ordered List</label>
+    <label for="accordion14"><h4>Primary 4-6: Lead the school through Action</h4></label>
     <div>
       <ol>
         <li>Item 1</li>
@@ -143,3 +143,5 @@ img {
     </div>
   </li>
 </ul>
+
+_Last Updated: 03/2020_
