@@ -104,3 +104,42 @@ img {
 ### Differentiated Activies
 
 ![Learning for Life Programme @ IPS](/images/Slide8-1024x576.jpeg)
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">Multi-line Block</label>
+    <div>
+      <p>This is line 1</p>
+      <p>This is line 2<br>
+        This is line 3</p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion13">Multi-line Folded</label>
+    <div>
+      <p>
+        This is all going
+        to become just one line\n even though there are multiple lines
+      </p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14">Ordered List</label>
+    <div>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+</ul>
