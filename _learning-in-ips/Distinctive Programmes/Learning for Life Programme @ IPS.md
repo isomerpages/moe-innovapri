@@ -255,3 +255,50 @@ img {
 <body><img src="LMAOOO" alt="HAHAHAHA" style="width:50%;">  
   
 </body>
+
+
+<h4 style="color:black" align="center">Care for the Seniors:<br>Intergenerational Bonding and Learning</h4>
+
+*   **Objective:**  
+    ♦ To encourage intergenerational bonding by involving students and seniors in a group learning environment
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-15.jpg" alt="Care for the Seniors: Intergenerational Bonding and Learning" style="width:50%;">  
+  
+</body>
+
+*   **Rationale and intent:  
+	♦**  Develop values and character as students learn from and share knowledge with the seniors  
+	♦  Enable students to learn and apply both leadership and communication skills  
+	♦  Develop a sense of empathy for others and respect towards the older generation
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-16.jpg" alt="Care for the Seniors: Intergenerational Bonding and Learning" style="width:80%;">  
+  
+</body>
+
+**♦**  Students to teach the seniors in an identified area of interest/skill, learn leadership and communication skills and pick up values like respect for seniors  
+**♦**  Programme forges intergenerational solidarity and promotes social cohesion
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-17.jpg" alt="Care for the Seniors: Intergenerational Bonding and Learning" style="width:80%;">  
+  
+</body>
