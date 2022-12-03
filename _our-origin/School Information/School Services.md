@@ -35,7 +35,37 @@ third_nav_title: School Information
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Student Care Services</label>
     <div>
-      <p>insert text here</p>
+      <h5 id="big-heart-student-care-innova"><strong>Big Heart Student Care (Innova)</strong></h5>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-y58q{background-color:#F9F9F9;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fye5{color:#428BCA;text-align:left;vertical-align:top}
+.tg .tg-ad45{background-color:#F9F9F9;text-align:left;vertical-align:top}
+.tg .tg-yyzr{background-color:#F9F9F9;color:#F60;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-y58q"><span style="color:#000">Office:</span></th>
+    <th class="tg-ad45"><span style="color:#000">9023 1493</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig"><span style="color:#000">Email:</span></td>
+    <td class="tg-fye5"><a href="mailto:innova@shgstudentcare.com.sg"><span style="text-decoration:none;color:#428BCA;background-color:transparent">innova@shgstudentcare.com.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-y58q"><span style="color:#000">Website:</span></td>
+    <td class="tg-yyzr"><a href="https://bigheartstudentcare.com/"><span style="text-decoration:none;color:#F60;background-color:transparent">https://bigheartstudentcare.com/</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
     
