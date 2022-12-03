@@ -30,14 +30,15 @@ third_nav_title: Distinctive Programmes
 	</li>  
   <li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9">U</label>
+    <label for="accordion9"><h4>Tri-generational Learning @Innova (3G @ IPS</h4></label>
     <div>
       <p>This is line 1</p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion10">Multi-line Folded</label>
+    <label for="accordion10"><h4> Active Recess Programme</h4>
+</label>
     <div>
       <p>
         This is all going
@@ -46,4 +47,3 @@ third_nav_title: Distinctive Programmes
     </div>
   </li>
 </ul>
-
