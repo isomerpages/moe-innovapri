@@ -99,4 +99,8 @@ img {
   </li>
 </ul>
 
+----
 
+### Differentiated Activies
+
+![Learning for Life Programme @ IPS](/images/Slide8-1024x576.jpeg)
