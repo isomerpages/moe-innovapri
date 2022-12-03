@@ -2,6 +2,7 @@ collections:
   learning-in-ips:
     output: true
     order:
+      - CCA/.keep
       - Distinctive Programmes/Applied Learning Programme – Nurture innovation
         through Applied Learning.md
       - Distinctive Programmes/Learning for Life Programme @ IPS.md
