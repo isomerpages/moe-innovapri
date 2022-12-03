@@ -2,6 +2,7 @@ collections:
   our-origin:
     output: true
     order:
+      - School Information/School Hours.md
       - School Information/School Attire.md
       - School Information/School Services.md
       - School Information/.keep
