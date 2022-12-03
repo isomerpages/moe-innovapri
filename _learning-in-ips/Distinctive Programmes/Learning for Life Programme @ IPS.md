@@ -110,7 +110,35 @@ img {
     <input type="checkbox" id="accordion11">
     <label for="accordion11"><h4>Primary 1-3: Lead Self</h4></label>
     <div>
-      <p>This is a simple one line item</p>
+      <h4 style="color:black" align="center">"I'm a Responsible Child" Card </h4>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-9.png" alt="Primary 1-3: Lead Self" style="width:70%;">  
+  
+</body>
+
+<ul>
+<li><p><strong>Objective:</strong><br>♦ To develop a sense of responsibility among student</p>
+</li>
+<li><p><strong>Rationale and intent:<br>♦</strong>  Inculcate independence and competency in carrying out one&#39; own responsibilities/duties</p>
+</li>
+</ul>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/LLP-10.png" alt="Primary 1-3: Lead Self" style="width:80%;">  
+  
+</body>
     </div>
 	</li>  
   <li>
@@ -153,31 +181,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="LMAOOO" alt="School Uniform" style="width:50%;">  
   
 </body>
 
 
 
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/LLP-9.png" alt="Primary 1-3: Lead Self" style="width:80%;">  
-  
-</body>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/LLP-10.png" alt="Primary 1-3: Lead Self" style="width:80%;">  
-  
-</body>
