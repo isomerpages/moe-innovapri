@@ -18,13 +18,9 @@ third_nav_title: CCA
 
 [![Tennis CCA](/images/Tennis%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-tennis-cca/home)
 
-[![Volleyball CCA](https://innovapri.moe.edu.sg/wp-content/uploads/2020/03/tS_volleyball.png "tS_volleyball")](https://sites.google.com/moe.edu.sg/ips-vb-cca/home)
+[![Volleyball CCA](/images/Volleyball%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-vb-cca/home)
 
-Volleyball CCA
-
-[![Wushu CCA](https://innovapri.moe.edu.sg/wp-content/uploads/2020/03/tS_wushu.png "tS_wushu")](https://sites.google.com/moe.edu.sg/ips-ws-cca/home)
-
-Wushu CCA
+[![Wushu CCA](/images/Wushu%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-ws-cca/home)
 
 <h3 style="color:black" align="left"><u>UNIFORMED GROUPS</u></h3>
 
