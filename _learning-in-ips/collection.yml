@@ -2,6 +2,7 @@ collections:
   learning-in-ips:
     output: true
     order:
+      - CCA/CCA in IPS.md
       - CCA/CCA Teachers in charge.md
       - CCA/CCA Policy.md
       - CCA/CCA FAQs.md
