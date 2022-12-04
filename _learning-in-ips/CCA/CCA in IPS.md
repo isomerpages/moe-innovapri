@@ -30,4 +30,16 @@ third_nav_title: CCA
 
 <h3 style="color:black" align="left"><u>PERFORMING & VISUAL ARTS</u></h3>
 
+[![Choir CCA](/images/Choir%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-choir-cca/home)
+
+[![Harmonica Ensemble CCA](/images/Harmonica%20Ensemble%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-he-cca/home)
+
+[![Chinese Dance CCA](/images/Chinese%20Dance%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-chinese-dance-cca/home)
+
+[![Fusion Dance CCA](/images/Fusion%20Dance%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-fusion-dance-cca/home)
+
+[![Malay Dance CCA](/images/Malay%20Dance%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-malay-dance-cca/home)
+
+[![Art & Craft Club CCA](/images/Art%20&%20Craft%20Club%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-ancc-cca/home)
+
 <h3 style="color:black" align="left"><u>CLUBS & SOCIETIES</u></h3>
