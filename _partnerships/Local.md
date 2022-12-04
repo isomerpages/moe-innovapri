@@ -41,8 +41,41 @@ img {
     <label for="accordion26"><h4>PLATINUM AWARD in 2022</h4>
 </label>
     <div>
-      <ul>
-LMAOOO
+      <p>Innova Primary School has achieved the PLATINUM AWARD for the North West Outstanding School Partner Award (SPA) 2022! This award is given to schools who have participated actively in Community Development Councils (CDC) programmes last year. Two of our pupils, Chloe Ng Yu Ting (Huang Yuting) and Ng Cheng Jie, class of 2021 are also given the Outstanding All Rounders Student (OARS) Award 2022. This award aims to recognise students who embody the spirit of giving back and excel in his or her Community Service, CCA, Leadership and Academics during Academic year (January to December 2021).</p>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Picture8.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Picture9.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
+  
+</body>
+<br>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Picture10.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
+  
+</body>
     </div>
 	</li>  
   <li>
@@ -86,3 +119,16 @@ LMAOOO
 </ul>
 
 ### Fei Yue Family Service Centre
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAO" alt="PLATINUM AWARD in 2022" style="width:70%;">  
+  
+</body>
+<br>
+
