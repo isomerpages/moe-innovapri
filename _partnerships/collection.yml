@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Local.md
       - Overseas.md
       - Innova Alumni Club (IAC)/.keep
       - Innova Alumni Club (IAC)/Innova Alumni Club (IAC).md
