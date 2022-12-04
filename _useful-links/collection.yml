@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Student Learning Space.md
       - "Student Learning Space: School based Helpdesk.md"
       - Student Learning Space Guide.md
       - Parents Gateway Guides.md
