@@ -3,45 +3,27 @@ title: Departments
 permalink: /departments/
 description: ""
 ---
-[![English Language Department](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/1-350pxX150px_EL.jpg "1 350pxX150px_EL")](https://sites.google.com/moe.edu.sg/ips-el-dept/home)
+[![English Language Department](/images/English%20Language%20Department.jpg)](https://sites.google.com/moe.edu.sg/ips-el-dept/home)
 
-English Language Department
+[![Mathematics Department](/images/Mathematics%20Department.jpg)](https://sites.google.com/moe.edu.sg/mathematicsdept/home)
 
-[![Mathematics Department](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/2-350pxX150px_MA.jpg "2 350pxX150px_MA")](https://sites.google.com/moe.edu.sg/mathematicsdept/home)
+[![Science Department](/images/Science%20Department.jpg)](https://sites.google.com/moe.edu.sg/sciencedept/home)
 
-Mathematics Department
+[![Chinese Language Department](/images/Chinese%20Language%20Department.jpg)](https://sites.google.com/moe.edu.sg/chineselanguagedept/home)
 
-[![Science Department](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/3-350pxX150px_SC.jpg "3 350pxX150px_SC")](https://sites.google.com/moe.edu.sg/sciencedept/home)
+[![Malay Language Department](/images/Malay%20Language%20Department.jpg)](https://sites.google.com/moe.edu.sg/malaylanguagedept/home)
 
-Science Department
+[![Tamil Language Department](/images/Tamil%20Language%20Department.jpg)](https://sites.google.com/moe.edu.sg/tamil-language-dept/home)
 
-[![Chinese Language Department](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/4-350pxX150px_CL.jpg "4 350pxX150px_CL")](https://sites.google.com/moe.edu.sg/chineselanguagedept/home)
-
-Chinese Language Department
-
-[![Malay Language Department](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/5-350pxX150px_ML.jpg "5 350pxX150px_ML")](https://sites.google.com/moe.edu.sg/malaylanguagedept/home)
-
-Malay Language Department
-
-[![Tamil Language Department](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/6-350pxX150px_TL.jpg "6 350pxX150px_TL")](https://sites.google.com/moe.edu.sg/tamil-language-dept/home)
-
-Tamil Language Department
-
-[![Information Communication Technology (ICT)](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/7-350pxX150px_ICT.jpg "7 350pxX150px_ICT")](https://sites.google.com/moe.edu.sg/ict-dept/home)
-
-Information Communication Technology (ICT)
+[![Information Communication Technology (ICT)](/images/Information%20Communication%20Technology%20(ICT).jpg)](https://sites.google.com/moe.edu.sg/ict-dept/home)
 
 [![Innovation Team](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/8-350pxX150px_innovation.jpg)](https://sites.google.com/moe.edu.sg/innovation-team/home)
 
 ----
 
-[![Character & Citizenship Education (CCE) Department](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/9-350pxX150px_CCE.jpg "9 350pxX150px_CCE")](https://sites.google.com/moe.edu.sg/ips-cce-dept/home)
+[![Character & Citizenship Education (CCE) Department](/images/Character%20&%20Citizenship%20Education%20(CCE)%20Department.jpg)](https://sites.google.com/moe.edu.sg/ips-cce-dept/home)
 
-Character & Citizenship Education (CCE) Department
-
-[![Heart Team & Counselling Team](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/10-350pxX150px_heart-team.jpg "10 350pxX150px_heart team")](https://innovapri.moe.edu.sg/our-family/our-departments/heart-team-counselling/)
-
-Heart Team & Counselling Team
+[![Heart Team & Counselling Team](/images/Heart%20Team%20&%20Counselling%20Team.jpg)](https://innovapri.moe.edu.sg/our-family/our-departments/heart-team-counselling/)
 
 ----
 
