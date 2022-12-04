@@ -32,3 +32,55 @@ img {
 <body><img src="/images/IPS_Picture2.jpeg" alt="Local Partnersips" style="width:80%;">  
   
 </body>
+
+### North West Outstanding School Partner Award
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion26">
+    <label for="accordion26"><h4>PLATINUM AWARD in 2022</h4>
+</label>
+    <div>
+      <ul>
+LMAOOO
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion27">
+    <label for="accordion27"><h4>GOLD AWARD in 2021</h4></label>
+    <div>
+ LMAOOO
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion28">
+    <label for="accordion28"><h4>GOLD AWARD in 2020</h4>
+</label>
+    <div>
+     LMAOOO
+    </div>
+  </li>
+</ul>
+
+----
+
+### North West Community Development Council
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion29">
+    <label for="accordion29"><h4>2021</h4>
+</label>
+    <div>
+      <ul>
+LMAOOO
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion30">
+    <label for="accordion30"><h4>2022</h4></label>
+    <div>
+ LMAOOO
+    </div>
+  </li>
+</ul>
