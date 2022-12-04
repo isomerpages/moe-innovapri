@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Innova Alumni Club (IAC)/IAC Guiding Principles.md
       - Innova Alumni Club (IAC)/IAC History.md
       - Innova Alumni Club (IAC)/Innova Alumni Club (IAC).md
       - Innova Alumni Club (IAC)/.keep
