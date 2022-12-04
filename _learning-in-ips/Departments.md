@@ -27,14 +27,8 @@ description: ""
 
 ----
 
-[![Aesthetics Department](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/11-350pxX150px_AES.jpg)](https://sites.google.com/moe.edu.sg/aesthetics-dept/home)
+[![Aesthetics Department](/images/Aesthetics%20Department.jpg)](https://sites.google.com/moe.edu.sg/aesthetics-dept/home)
 
-Aesthetics Department
+[![Physical Education (PE) Department](/images/Physical%20Education%20(PE)%20Department.jpg)](https://sites.google.com/moe.edu.sg/pedept/home)
 
-[![Physical Education (PE) Department](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/12-350pxX150px_PE.jpg "12 350pxX150px_PE")](https://sites.google.com/moe.edu.sg/pedept/home)
-
-Physical Education (PE) Department
-
-[![Programme for Active Learning (PAL)](https://innovapri.moe.edu.sg/wp-content/uploads/2020/12/13-350pxX150px_PAL.jpg "13 350pxX150px_PAL")](https://sites.google.com/moe.edu.sg/aestheticsdept/home)
-
-Programme for Active Learning (PAL)
+[![Programme for Active Learning (PAL)](/images/Programme%20for%20Active%20Learning%20(PAL).jpg)](https://sites.google.com/moe.edu.sg/aestheticsdept/home)
