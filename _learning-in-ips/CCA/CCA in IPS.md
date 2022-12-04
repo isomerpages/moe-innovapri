@@ -24,6 +24,10 @@ third_nav_title: CCA
 
 <h3 style="color:black" align="left"><u>UNIFORMED GROUPS</u></h3>
 
+[![Girl Guides/Brownies CCA](/images/Girl%20Guides%20and%20Brownies%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-gg-b-cca/home)
+
+[![Red Cross Youth CCA](/images/Red%20Cross%20Youth%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-rcy-cca/home)
+
 <h3 style="color:black" align="left"><u>PERFORMING & VISUAL ARTS</u></h3>
 
 <h3 style="color:black" align="left"><u>CLUBS & SOCIETIES</u></h3>
