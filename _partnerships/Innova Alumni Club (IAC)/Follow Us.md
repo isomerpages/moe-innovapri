@@ -25,4 +25,4 @@ img {
   
 </body>
 
-<p style="text-align:left;"><em>Last updated: 02/2020</p>
+<p style="text-align:left;"><em>Last updated: 02/2020</em></p>
