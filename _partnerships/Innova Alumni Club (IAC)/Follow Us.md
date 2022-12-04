@@ -21,6 +21,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/innova%20alumni%20club.jpg)" alt="Innova Alumni Club" style="width:50%;">  
+<body><img src="/images/innova%20alumni%20club.jpg" alt="Innova Alumni Club" style="width:90%;">  
   
 </body>
