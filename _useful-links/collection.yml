@@ -2,4 +2,5 @@ collections:
   useful-links:
     output: true
     order:
+      - Innova’s School Library.md
       - For Staff.md
