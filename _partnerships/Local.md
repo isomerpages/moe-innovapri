@@ -82,7 +82,18 @@ img {
     <input type="checkbox" id="accordion27">
     <label for="accordion27"><h4>GOLD AWARD in 2021</h4></label>
     <div>
- LMAOOO
+ <p>Innova Primary School has achieved Gold for the North West Outstanding School Partner Award (SPA) 2021! This award is given to schools who have participated actively in Community Development Councils (CDC) programmes last year. Two of our pupils, Danish Mirza Bin Hazry Amir and Shaine Pang Wan Xuan, class of 2020 are also given the Outstanding All Rounders Student (OARS) Award 2021. This award aims to recognise students who embody the spirit of giving back and excel in his or her Community Service, CCA, Leadership and Academics during Academic year (January to December 2020).</p>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/gold%20award%202021.jpg" alt="GOLD AWARD in 2021" style="width:100%;">  
+  
+</body>
+<br>
     </div>
   </li>
   <li>
@@ -90,7 +101,8 @@ img {
     <label for="accordion28"><h4>GOLD AWARD in 2020</h4>
 </label>
     <div>
-     LMAOOO
+     <p>Innova Primary School received the GOLD AWARD for North West Outstanding School Partner Award 2020 (SPA 2020). This award is given to schools who have participated actively in Community Development Councils (CDC) programmes last year. Two of our pupils, Tok Kong Lok and Ong Lun Kiat (Wang Runjie), class of 2019 are also given the Outstanding All Rounders Student (OARS) Award 2020. This award aims to recognise students who embody the spirit of giving back and excel in his or her Community Service, CCA, Leadership and Academics during Academic year (<strong>January to December 2019</strong>).</p>
+<p><img src="/images/Innova-Primary-SchoolLong-1024x853.jpeg" alt="GOLD AWARD in 2020"></p>
     </div>
   </li>
 </ul>
