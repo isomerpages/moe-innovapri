@@ -43,3 +43,11 @@ third_nav_title: CCA
 [![Art & Craft Club CCA](/images/Art%20&%20Craft%20Club%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-ancc-cca/home)
 
 <h3 style="color:black" align="left"><u>CLUBS & SOCIETIES</u></h3>
+
+[![ELDDS CCA](/images/ELDDS%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-eldds-cca/home)
+
+
+[![Robotics CCA](/images/Robotics%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-rc-cca/home)
+
+[![Environmental Science Club CCA](/images/Environmental%20Science%20Club%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-esc-cca/home)
+
