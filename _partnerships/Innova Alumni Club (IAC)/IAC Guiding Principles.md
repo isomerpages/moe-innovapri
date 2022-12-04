@@ -35,4 +35,4 @@ _**Join in the gathering!**_
 				
 ![IAC Gathering](/images/IAC%20Gathering.jpg)
 
-<p style="text-align:left;"><em>Last updated: 02/2020</p>
+<p style="text-align:left;"><em>Last updated: 02/2020</em></p>
