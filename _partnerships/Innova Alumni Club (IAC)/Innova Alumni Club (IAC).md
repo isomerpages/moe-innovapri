@@ -32,3 +32,5 @@ Flip 2 teabags onto the hat
 ![Alumni homecoming games](/images/Alumni%20homecoming%20games.jpg)
 
 **videos to be embedded here!**
+
+<p style="text-align:left;"><em>Last updated: 02/2020</p>
