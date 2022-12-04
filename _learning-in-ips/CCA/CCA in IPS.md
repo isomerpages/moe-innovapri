@@ -12,15 +12,11 @@ third_nav_title: CCA
 
 [![Netball CCA](/images/Netball%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-ntb-cca/home)
 
-[![](/images/Rope%20Skipping%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-rpsp-cca/home)
+[![Rope Skipping CCA](/images/Rope%20Skipping%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-rpsp-cca/home)
 
-[![Table Tennis CCA](https://innovapri.moe.edu.sg/wp-content/uploads/2020/03/tS_tabletennis.png "tS_tabletennis")](https://sites.google.com/moe.edu.sg/ips-tbtn-cca/home)
+[![Table Tennis CCA](/images/Table%20Tennis%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-tbtn-cca/home)
 
-Table Tennis CCA
-
-[![Tennis CCA](https://innovapri.moe.edu.sg/wp-content/uploads/2020/03/tS_tennis.png "tS_tennis")](https://sites.google.com/moe.edu.sg/ips-tennis-cca/home)
-
-Tennis CCA
+[![Tennis CCA](/images/Tennis%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-tennis-cca/home)
 
 [![Volleyball CCA](https://innovapri.moe.edu.sg/wp-content/uploads/2020/03/tS_volleyball.png "tS_volleyball")](https://sites.google.com/moe.edu.sg/ips-vb-cca/home)
 
