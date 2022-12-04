@@ -117,15 +117,23 @@ img {
     <label for="accordion29"><h4>2021</h4>
 </label>
     <div>
-      <ul>
-LMAOOO
+      <h4 id="north-west-service-week-2021"><strong>North West Service Week 2021</strong></h4>
+<p>Since 2014, WeCare @ North West – Service Weeks has been spreading festive cheer to low-income residents living in rental blocks within the North West District.</p>
+<p>This year, despite the pandemic impacting the economy and restricting the conduct of large-scale events, 50 Primary 5 and Primary 6 students from Innova Primary School spent one afternoon packing 400 WeCare packs for residents residing at the nearby rental blocks.</p>
+<p>North West CDC has also acknowledged our efforts in their recent write up on our support in Service Week 2021.</p>
+<p>Please refer to attached for the link to the published article.</p>
+<p><a href="https://www.facebook.com/nwcdc/posts/3974878859203205">https://www.facebook.com/nwcdc/posts/3974878859203205</a></p>
+<p><img src="/images/North%20West%20Service%20Week%202021.jpg" alt="North West Service Week 2021"></p>
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion30">
     <label for="accordion30"><h4>2022</h4></label>
     <div>
- LMAOOO
+ <p><img src="/images/CNY-hamper-giving-2020.jpeg" alt="Chinese New Year Festive Hamper Distribution 2020"></p>
+<h4><strong>Chinese New Year Festive Hamper Distribution 2020</strong></h4>
+<p>Innova Primary School, together with North West Community Council organized a “CNY Festive Hamper Distribution” to the rental unit households on Friday, 17th January 2020. Each year, CDC will purchase a festive goodie bag worth $50 for each of the rental unit household. Our students, parent support group, alumni, teachers and school leaders participated in the spreading of festive cheers to the needy families by helping with the packing and distribution of hampers. </p>
+<p>Mr Vikram Nair, Adviser to Admiralty GROs graced the occasion by expressing his gratitude to all participants. He lauded the effort to reach out to the community as meaningful and beneficial to the society. He also distributed the hampers alongside staff, pupils and stakeholders. It was indeed a day well-spent as it was definitely worthwhile for all the participants to be able to play their part in contributing to the community.</p>
     </div>
   </li>
 </ul>
