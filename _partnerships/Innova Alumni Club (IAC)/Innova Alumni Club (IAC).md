@@ -33,4 +33,4 @@ Flip 2 teabags onto the hat
 
 **videos to be embedded here!**
 
-<p style="text-align:left;"><em>Last updated: 02/2020</p>
+<p style="text-align:left;"><em>Last updated: 02/2020</em></p>
