@@ -87,3 +87,5 @@ Our students were brought to a kiln for some DIY activities during their home st
 style="width:40%">
 
 Farewell on the final day of the trip
+
+<p style="text-align:left;"><em>Last updated: 06/2019</em></p>
