@@ -24,3 +24,5 @@ img {
 <body><img src="/images/innova%20alumni%20club.jpg" alt="Innova Alumni Club" style="width:90%;">  
   
 </body>
+
+<p style="text-align:left;"><em>Last updated: 02/2020</p>
