@@ -147,8 +147,17 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAO" alt="PLATINUM AWARD in 2022" style="width:70%;">  
+<body><img src="/images/Fei%20Yue%20Family%20Service%20Centre.jpg" alt="Innova primary’s parents support group, student leaders and teachers producing their own hand sanitizers from scratch" style="width:95%;">  
   
 </body>
-<br>
+<p style="text-align:center;"><em>Innova primary’s parents support group, student leaders and teachers producing their own hand sanitizers from scratch</em></p>
 
+#### **Parents, students and teachers step up and produce handmade sanitisers for residents**
+
+On Wednesay, 11th February 2020, Innova primary’s parent support group, student leaders and teachers produced their own hand sanitisers from scratch, bottled them, and handed it over door to door to more than 400 residents at block 569A and 569B along Champions Way.
+
+The different parties came together and they mixed and produced handmade sanitisers using tea tree oil, aloe-vera gel and alcohol. Upon finishing, they made their way to the nearby rental block and started distributing the handmade sanitisers. Along with each sanitiser comes a poster of 8 proper steps to wash one’s hands thoroughly.
+
+One resident mentioned “It was a pleasant surprise receiving DIY homemade sanitiser from students of Innova Primary School”.
+
+After the distribution exercise, left over hand sanitisers was left with Fei Yue Family Service Centre (Champions Way) so that residents who are away during the distribution can collect their sanitiser when they return.
