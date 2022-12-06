@@ -7,8 +7,6 @@ description: ""
 
 ### 2022 Parenting Seminars (Term 1)
 
-### 2022 Parenting Seminars (Term 1)
-
 
 <ul class="jekyllcodex_accordion">
   <li>
