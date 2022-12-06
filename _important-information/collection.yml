@@ -2,6 +2,7 @@ collections:
   important-information:
     output: true
     order:
+      - FT Connect.md
       - Group Personal Accident Insurance (For Students).md
       - MOE Sexuality Education.md
       - CareCorner (Parenting Support Service).md
