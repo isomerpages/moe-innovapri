@@ -31,14 +31,31 @@ description: ""
     <input type="checkbox" id="accordion32">
     <label for="accordion32"><h4>Raising Confident, Competent Children</h4></label>
     <div>
-    LMAOOO
+    <p>In this 2nd seminar topic, you will learn how you can use positive parenting principles to teach your child important values and skills such as:</p>
+<ul>
+<li>encouraging respect;</li>
+<li>cooperation;</li>
+<li>getting along with others;</li>
+<li>learning to be independent;</li>
+<li>developing a healthy self-esteem; and</li>
+<li>learning to become good problem solvers</li>
+</ul>
+<p>These competencies enable children to do well both at school and beyond.</p>
+<p>---</p>
+<p><em><strong>Programme Details:</strong></em></p>
+<p><em><strong>21 Jan 2022, Friday</strong></em></p>
+<p><em>7:30pm – 7:40pm: Welcome and Admission</em></p>
+<p><em>7:40pm – 9:00pm: Live Session and Q &amp; A</em></p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion33">
     <label for="accordion33"><h4>The Power of Positive Parenting</h4></label>
     <div>
-      LMAOO
+      <p>The first topic in the series is - The Power of Positive Parenting. Through this seminar series, you will learn parenting strategies to support your P1 child through this transition stage and beyond.</p>
+<p>---</p>
+<p><em><strong>Programme Details:</strong></em></p>
+<p><em><strong>14 Jan 2022, Friday</strong><br>7:30pm – 7:40pm: Admission, Welcome and Introduction<br>7:40pm – 9:00pm: Live Session and Q &amp; A</em></p>
     </div>
   </li>
 </ul>
