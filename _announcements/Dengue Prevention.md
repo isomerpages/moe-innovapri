@@ -31,3 +31,7 @@ Follow the **‘Check and Protect’** poster to carry out self-check at home 
 For the latest updates on dengue case numbers, advisories, clusters and high _Aedes_ mosquito population areas,  
 we encourage everyone to visit the NEA website (_**[https://www.nea.gov.sg/dengue-zika/dengue/dengue-clusters](https://www.nea.gov.sg/dengue-zika/dengue/dengue-clusters)**_)  
 or tag their respective premises / assets or installations’ location using the myENV app for dengue-related alerts.
+
+![NEA](/images/NEA%20QR%20Code.jpg)
+
+_Last Updated: 08/2020_
