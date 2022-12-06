@@ -3,6 +3,7 @@ title: Dengue Prevention
 permalink: /dengue-prevention/
 description: ""
 ---
+
 ### Using of Mosquito Repellent
 
 
@@ -15,3 +16,13 @@ description: ""
 
   
 [![Dengue Prevention](/images/Dengue-Self-Protect-A4-Flyer-768x1089.jpeg)](/files/Innova-Primary-School-Good-Stories-Book-content-v5.pdf)
+
+
+---
+
+
+### Check and Protect Checklist
+
+Follow the **‘Check and Protect’** poster to carry out self-check at home to remove potential mosquito breeding habits.
+
+![Check and Protect Checklist](/images/Protect-and-Check-Checklist_EMCT-FINAL-1.jpeg)
