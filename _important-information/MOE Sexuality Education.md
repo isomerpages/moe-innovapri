@@ -42,3 +42,24 @@ c) Character and Citizenship Education (CCE)
 6\. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 
 7\. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate **_changes_**, build healthy **_relationships_**, especially online relationships, and exercise **_safety_**.
+
+---
+
+
+![Overview of Innova Primary School’s Sexuality Education Programme for 2022](/images/Info_on_SEd_P5-1-scaled.jpeg)
+
+![Overview of Innova Primary School’s Sexuality Education Programme for 2022](/images/Info_on_SEd_P5-2-scaled.jpeg)
+
+![Overview of Innova Primary School’s Sexuality Education Programme for 2022](/images/Info_on_SEd_P6-1-scaled.jpeg)
+
+![Overview of Innova Primary School’s Sexuality Education Programme for 2022](/images/Info_on_SEd_P6-2-scaled.jpeg)
+
+#### **Information for Parents**
+
+8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](/files/2022_SEd_OptOutForm.pdf)**. The completed opt-out form is to be submitted by **<u>13/01/2022</u>**
+
+10\. Parents can contact the school at 6894 4693 or email: **[innova\_pri@moe.edu.sg](mailto:innova_pri@moe.edu.sg)** for discussion or to seek clarification about the school’s sexuality education programme.
+
+11\. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements
