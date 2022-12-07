@@ -12,7 +12,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school_crest.png" alt="School Crest" style="width:30%;">  
+<body><img src="/images/school_crest.png" alt="School Crest" style="width:25%;">  
   
 </body>
 
@@ -65,4 +65,3 @@ i-STAR in you and me
 Together we create  
 Our future for all to see  
 We Dare to Dream
-
