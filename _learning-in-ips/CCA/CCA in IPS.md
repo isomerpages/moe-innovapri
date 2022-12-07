@@ -4,7 +4,7 @@ permalink: /cca-in-ips/
 description: ""
 third_nav_title: CCA
 ---
-<p style="color:black" align="right">Updated Oct 2022</hp>
+<p style="color:black" align="right">Updated Oct 2022</p>
 
 <h3 style="color:black" align="left"><u>SPORTS</u></h3>
 
