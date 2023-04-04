@@ -2,6 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - Events.md
       - IPS Chinese New Year Celebration 2022.md
       - The Innova Experience 2022.md
+      - Events.md
