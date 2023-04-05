@@ -1,5 +1,5 @@
 ---
-title: School Song & Crest
+title: School Song &amp; Crest
 permalink: /school-song-crest/
 description: ""
 ---
@@ -12,9 +12,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school_crest.png" alt="School Crest" style="width:25%;">  
+<img src="/images/school_crest.png" alt="School Crest" style="width:25%;">
+
+
+
+
+
   
-</body>
+
 
 This is the school where stars and champions are born, and anchored on values.  
 We hope to inspire in them the passion for life-long learning,  
@@ -22,14 +27,14 @@ ability to adapt to changes and imbue in them the desire, discipline and dedicat
 as a committed individual with a global mindset.
 
 The Letter “I” which begins from the base as a stroke of a paint brush represents  
-the importance of being anchored on values and purpose. As it reaches the top,  
+the importance of&nbsp;being anchored on values and purpose. As it reaches the top,  
 the digitized format represents being relevant to the present and ready for the future.  
 The orange colour symbolizes the vibrant and dynamic environment in the school.  
 The Red Star which is dancing and rejoicing represents a bright and happy pupil  
 of Innova celebrating success. It embodies the Chinese name of Innova,  
-**星****烁小****学** which connotes the potential of the pupils to be “bright and shining stars”.
+**星****烁小****学**&nbsp;which connotes the potential of the pupils to be “bright and shining stars”.
 
-The school motto **"Dare to Dream"** in italics represents the spirit of Innovation and Enterprise,  
+The school motto&nbsp;**"Dare to Dream"**&nbsp;in italics represents the spirit of Innovation and Enterprise,  
 	where our pupils continually make things better through experimentation, creation and innovation.
 	
 ### **School Song**
@@ -65,3 +70,5 @@ i-STAR in you and me
 Together we create  
 Our future for all to see  
 We Dare to Dream
+
+(insert MP3 file here)
