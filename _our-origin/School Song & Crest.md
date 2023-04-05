@@ -16,10 +16,7 @@ img {
 
 
 
-
-
   
-
 
 This is the school where stars and champions are born, and anchored on values.  
 We hope to inspire in them the passion for life-long learning,  
