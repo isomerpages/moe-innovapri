@@ -12,7 +12,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/school_crest.png" alt="School Crest" style="width:25%;">
+<img align="right" src="/images/school_crest.png" alt="School Crest" style="width:33%;">
 
 
 
