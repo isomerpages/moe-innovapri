@@ -32,7 +32,9 @@ third_nav_title: CCA
 
 <h1 style="color:orange" align="middle">CLUBS &amp; SOCIETIES</h1>
 
-![](/images/eldds%20lib%20cca.png)
+<a href="[https://sites.google.com/moe.edu.sg/ips-eldds-lib-cca/home](https://sites.google.com/moe.edu.sg/ips-eldds-lib-cca/home)">  
+<img style="width:100%" src="/images/eldds%20lib%20cca.png">  
+</a>
 
 
 [![Environmental Science Club CCA](/images/Environmental%20Science%20Club%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-esc-cca/home)
