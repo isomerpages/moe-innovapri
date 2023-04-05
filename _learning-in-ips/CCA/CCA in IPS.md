@@ -34,6 +34,7 @@ third_nav_title: CCA
 
 ![](/images/eldds%20lib%20cca.png)
 
+
 [![Environmental Science Club CCA](/images/Environmental%20Science%20Club%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-esc-cca/home)
 
 <p style="color:black" align="right">Updated Dec 2022</p>
