@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Departments.md
-      - Learning Spaces.md
       - CCA/CCA in IPS.md
       - CCA/CCA Teachers in charge.md
       - CCA/CCA Policy.md
