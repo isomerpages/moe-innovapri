@@ -49,11 +49,16 @@ third_nav_title: School Information
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lm9i"><span style="color:#000">Primary One to Six</span></td>
-    <td class="tg-lm9i"><span style="color:#000">8:30 AM to 11 AM</span></td>
+    <td class="tg-lm9i"><span style="color:#000">P1 and P4</span></td>
+    <td class="tg-lm9i"><span style="color:#000">9 AM to 9:30 AM</span></td>
   </tr>
-  <tr>
-    <td class="tg-uc8z" colspan="2">(Pupils will be given staggered recess throughout the week)</td>
+	<tr><td class="tg-lm9i"><span style="color:#000">P2 and P5</span></td>
+	<td class="tg-lm9i"><span style="color:#000">10 AM to 10:30 AM</span>
+  </td></tr><tr>
+		<td class="tg-lm9i"><span style="color:#000">P3 and P6</span></td>
+		<td class="tg-lm9i"><span style="color:#000">9:30 AM to 10 AM</span>
+			</td></tr><tr>
+   
   </tr>
 </tbody>
 </table>
@@ -75,7 +80,7 @@ third_nav_title: School Information
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lm9i" colspan="2"><span style="color:#000">9:15AM/12:15PM</span></td>
+    <td class="tg-lm9i" colspan="2"><span style="color:#000">12:15PM</span></td>
   </tr>
 </tbody>
 </table>
