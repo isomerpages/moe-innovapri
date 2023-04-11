@@ -34,4 +34,3 @@ or tag their respective premises / assets or installations’ location using the
 
 ![NEA](/images/NEA%20QR%20Code.jpg)
 
-_Last Updated: 08/2020_
