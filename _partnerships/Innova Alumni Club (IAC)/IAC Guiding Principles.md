@@ -10,18 +10,18 @@ The IAC will serve to maintain contact between the school, old girls and old boy
 
 Alumni members will:
 
-*         To be mentors and role models for students, past and present
-*         To play a supportive role in carrying out the aims and objectives of the school
-*         To be champions of the school’s identity and heritage so as to foster a strong school spirit  
+*   &nbsp;&nbsp;&nbsp; &nbsp; To be mentors and role models for students, past and present
+*   &nbsp; &nbsp; &nbsp; To play a supportive role in carrying out the aims and objectives of the school
+*   &nbsp; &nbsp; &nbsp; To be champions of the school’s identity and heritage so as to foster a strong school spirit  
     across various batches of pupils.
 
 ##### **Key activities (2020)**
 
-_**Be a volunteer!**_ 
+_**Be a volunteer!**_&nbsp;
 
 	Help distribute CNY hampers.
 
-		Lend a helping hand at the NAPFA Test. 
+		Lend a helping hand at the NAPFA Test.&nbsp;
 
 _**Join in the gathering!**_
 
@@ -35,4 +35,3 @@ _**Join in the gathering!**_
 				
 ![IAC Gathering](/images/IAC%20Gathering.jpg)
 
-<p style="text-align:left;"><em>Last updated: 02/2020</em></p>
