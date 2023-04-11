@@ -10,7 +10,7 @@ third_nav_title: Innova Alumni Club (IAC)
 
 ![Alumni homecoming](/images/alumni-homecoming_banner-edited.jpeg)
 
-This year for homecoming, we had a _**treasure hunt**_!
+This year for homecoming, we had a&nbsp;_**treasure hunt**_!
 
 After the briefing of the games, the game master have to go to their respective station.
 
@@ -33,4 +33,3 @@ Flip 2 teabags onto the hat
 
 **videos to be embedded here!**
 
-<p style="text-align:left;"><em>Last updated: 02/2020</em></p>
