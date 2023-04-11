@@ -49,23 +49,13 @@ Innova Primary School has achieved the PLATINUM AWARD for the North West Outstan
 Two of our pupils, Shanyce Pang Xuan Ying and Adinda Hannah Binte Norhisham, class of 2022 are also given the Outstanding All Rounders Student (OARS) Award 2023.
 
 This award aims to recognise students who embody the spirit of giving back and excel in his or her Community Service, CCA, Leadership and Academics during Academic year (January to December 2022).</p>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
 
-			
 ![](/images/ips%20platinum%202023.jpg)
-
-![](/images/adinda%20hannah.jpg)
-
-![](/images/shanyce%20pang.jpg)
-
-			
-  </div></li><li>
+			<br>
+			![](/images/adinda%20hannah.jpg)
+			<br>
+			![](/images/shanyce%20pang.jpg)
+			</div></li><li>
 	<input type="checkbox" id="accordion26">
     <label for="accordion26"><h4>PLATINUM AWARD in 2022</h4>
 </label>
