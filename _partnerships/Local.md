@@ -103,7 +103,6 @@ img {
 </style>  
 <img src="/images/Picture10.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
   
-
     </div>
 	</li>  
   <li>
