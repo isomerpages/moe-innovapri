@@ -59,11 +59,11 @@ img {
 
 			
 ![](/images/ips%20platinum%202023.jpg)
-<br>
+
 ![](/images/adinda%20hannah.jpg)
-<br>
+
 ![](/images/shanyce%20pang.jpg)
-<br>
+
 			
   </div></li><li>
 	<input type="checkbox" id="accordion26">
