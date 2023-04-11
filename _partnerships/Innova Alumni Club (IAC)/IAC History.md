@@ -12,8 +12,7 @@ Mr Chui How Yee assumed the position of Chairman from October 2018 onwards openi
 
 **Chairman**
 
-**2018 – Present    Mr Chui How Yee**
+**2018 – Present&nbsp; &nbsp; Mr Chui How Yee**
 
-2016 – 2018         Mr O Kah Hao
+2016 – 2018 &nbsp; &nbsp; &nbsp; &nbsp; Mr O Kah Hao
 
-<p style="text-align:left;"><em>Last updated: 02/2020</em></p>
