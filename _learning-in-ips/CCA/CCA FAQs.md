@@ -10,7 +10,7 @@ third_nav_title: CCA
     <label for="accordion15"><h5 id="when-can-my-childward-apply-for-a-cca">When can my child/ward apply for a CCA?</h5>
 </label>
     <div>
-      <p>The CCA Updating Exercise is held around Term 2 Week 5 annually. A form will be sent via Parents Gateway for you to apply for a CCA for your child/ward. Your child/ward will receive the consent form from their assigned CCA teacher before Term 3.</p>
+      <p>The CCA Updating Exercise is held around Term 2 Week 5 annually. A form will be sent via Parents Gateway for you to apply for a CCA for your child/ward. Your child/ward will receive the consent form from their assigned CCA teacher before Term 3..</p>
     </div>
 	</li>  
   <li>
