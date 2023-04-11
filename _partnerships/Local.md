@@ -79,7 +79,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Picture8.png" alt="PLATINUM AWARD in 2022" style="width:100%;">  
+<img src="/images/Picture8.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
   
 
 <br>
@@ -91,7 +91,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Picture9.png" alt="PLATINUM AWARD in 2022" style="width:100%;">  
+<img src="/images/Picture9.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
   
 
 <br>
@@ -103,7 +103,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Picture10.png" alt="PLATINUM AWARD in 2022" style="width:100%;">  
+<img src="/images/Picture10.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
 <br>  
 
   </div></li><li>
