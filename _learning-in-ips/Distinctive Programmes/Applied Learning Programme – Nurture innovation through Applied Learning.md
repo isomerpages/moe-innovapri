@@ -23,10 +23,10 @@ These lessons categorized under three broad domains to provide authentic learnin
 • Application for Creative problem solving with Four sight model for Primary 3 and 4  
 \- (Designing a solution to a specific problem)
 
-• Creation of a product based on themes provided for Primary 5 & Primary 6  
+• Creation of a product based on themes provided for Primary 5 &amp; Primary 6  
 \- (Coding and service to community)
 
-**Stages of Four-stage model** \- Clarify, Ideate, Develop and Implement
+**Stages of Four-stage model**&nbsp;\- Clarify, Ideate, Develop and Implement
 
 <style>  
 img {  
@@ -35,9 +35,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/P2-Product.jpeg" alt="Primary 2 pupils created a stable structured bed from recycled material to solve a problem faced by a character in a story" style="width:50%;">  
+<img src="/images/P2-Product.jpeg" alt="Primary 2 pupils created a stable structured bed from recycled material to solve a problem faced by a character in a story" style="width:50%;">  
   
-</body>
+
 
 <p style="text-align:center;"><em>Primary 2 pupils created a stable structured bed from recycled material to solve a problem faced by a character in a story</em></p>
 
@@ -48,10 +48,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/P4_CPS-768x373.jpeg" alt="Pupils implementing creative solutions using building blocks during CPS lesson" style="width:50%;">  
+<img src="/images/P4_CPS-768x373.jpeg" alt="Pupils implementing creative solutions using building blocks during CPS lesson" style="width:50%;">  
   
-</body>
+
 
 <p style="text-align:center;"><em>Pupils implementing creative solutions using building blocks during CPS lesson</em></p>
 
-_Last updated: 06/2020_
