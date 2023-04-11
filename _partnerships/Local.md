@@ -61,10 +61,8 @@ img {
 ![](/images/adinda%20hannah.jpg)
 <br>
 ![](/images/shanyce%20pang.jpg)
-
-    </div>
-	</li>  
-  <li>
+<br>
+  </div></li><li>
     <input type="checkbox" id="accordion26">
     <label for="accordion26"><h4>PLATINUM AWARD in 2022</h4>
 </label>
@@ -77,7 +75,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Picture8.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
+<img src="/images/Picture8.png" alt="PLATINUM AWARD in 2022" style="width:100%;">  
   
 
 <br>
@@ -89,7 +87,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Picture9.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
+<img src="/images/Picture9.png" alt="PLATINUM AWARD in 2022" style="width:100%;">  
   
 
 <br>
@@ -101,11 +99,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Picture10.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
-  
-    </div>
-	</li>  
-  <li>
+<img src="/images/Picture10.png" alt="PLATINUM AWARD in 2022" style="width:100%;">  
+<br>  
+
+  </div></li><li>
     <input type="checkbox" id="accordion27">
     <label for="accordion27"><h4>GOLD AWARD in 2021</h4></label>
     <div>
@@ -155,7 +152,7 @@ img {
 	</li>  
   <li>
     <input type="checkbox" id="accordion30">
-    <label for="accordion30"><h4>2022</h4></label>
+    <label for="accordion30"><h4>2020</h4></label>
     <div>
  <p><img src="/images/CNY-hamper-giving-2020.jpeg" alt="Chinese New Year Festive Hamper Distribution 2020"></p>
 <h4><strong>Chinese New Year Festive Hamper Distribution 2020</strong></h4>
