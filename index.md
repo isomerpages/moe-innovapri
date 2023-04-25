@@ -8,7 +8,4 @@ notification: ""
 sections:
   - hero:
       background: /images/1912c888-bbe4-47d7-82b0-bf530912d96a.jpg
-      dropdown:
-        title: Exciting Happenings
-        options: []
 ---
