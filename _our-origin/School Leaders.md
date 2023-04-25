@@ -3,20 +3,20 @@ title: School Leaders
 permalink: /school-leaders/
 description: ""
 ---
-<div style="width:85%">
+<div>
 	<table>
 		<tbody><tr>
-			<td><img src="/images/2022_website_MrYee-225x300.jpeg"></td>
+			<td><img style="width:65%" src="/images/2022_website_MrYee-225x300.jpeg"></td>
 	<td><b>Principal</b></td>
 	<td><i>Mr Yee</i></td>
 		</tr>
 		<tr>
-			<td><img src="/images/2022_website_MrsAng-225x300.jpeg"></td>
+			<td><img style="width:65%" src="/images/2022_website_MrsAng-225x300.jpeg"></td>
 				<td><b>Vice-Principal</b></td>
 				<td><i>Mrs Ang</i></td>
 		</tr>
 		<tr>
-			<td><img src="/images/2022_website_MrLau-225x300.jpeg"></td>
+			<td><img style="width:65%" src="/images/2022_website_MrLau-225x300.jpeg"></td>
 				<td><b>Vice-Principal</b></td>
 				<td><i>Mr Lau</i></td>
 		</tr>
