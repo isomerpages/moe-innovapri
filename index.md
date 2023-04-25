@@ -7,16 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/innovapri.gif
-      key_highlights:
-        - title: Announcements
-          description: ""
-          url: /newsletter/
-        - title: Important Information
-          description: ""
-          url: /ft-connect/
-        - title: Guide for Parents
-          description: ""
-          url: /guide-for-parents/
+      background: /images/1912c888-bbe4-47d7-82b0-bf530912d96a.jpg
+      dropdown:
+        title: Links
+        options:
+          - title: Student Learning Space(SLS)
+            url: https://vle.learning.moe.edu.sg/login
+          - title: FT Connect
+            url: https://sites.google.com/moe.edu.sg/ft-connect/home
 ---
-
