@@ -3,10 +3,17 @@ title: School Leaders
 permalink: /school-leaders/
 description: ""
 ---
-<table class="aligncenter" width="429" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(255, 255, 255); clear: both; display: block; margin: 5px auto; color: rgb(128, 128, 128); font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 496px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 162.75px;"><img loading="lazy" class="alignnone  wp-image-21698" src="/images/2022_website_MrYee-225x300.jpeg" alt="" width="114" height="152" sizes="(max-width: 114px) 100vw, 114px" style="box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: 5px 20px 20px 0px;"></td><td style="box-sizing: border-box; padding: 0px; width: 132.625px;"><strong style="box-sizing: border-box; font-weight: bold;"><span style="box-sizing: border-box; font-family: helvetica, arial, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Principal</span></strong></td><td style="box-sizing: border-box; padding: 0px; width: 111.625px;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box; font-family: helvetica, arial, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Mr Yee</span></em></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 162.75px;"><img loading="lazy" class="alignnone  wp-image-21699" src="/images/2022_website_MrsAng-225x300.jpeg" alt="" width="111" height="148" style="box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: 5px 20px 20px 0px;"></td><td style="box-sizing: border-box; padding: 0px; width: 132.625px;"><strong style="box-sizing: border-box; font-weight: bold;"><span style="box-sizing: border-box; font-family: helvetica, arial, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Vice-Principal</span></strong></td><td style="box-sizing: border-box; padding: 0px; width: 111.625px;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box; font-family: helvetica, arial, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Mrs Ang</span></em></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 162.75px;"><img loading="lazy" class="alignnone  wp-image-21700" src="/images/2022_website_MrLau-225x300.jpeg" alt="" width="117" height="156" style="box-sizing: border-box; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: 5px 20px 20px 0px;"></td><td style="box-sizing: border-box; padding: 0px; width: 132.625px;"><strong style="box-sizing: border-box; font-weight: bold;"><span style="box-sizing: border-box; font-family: helvetica, arial, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Vice-Principal</span></strong></td><td style="box-sizing: border-box; padding: 0px; width: 111.625px;"><em style="box-sizing: border-box;"><span style="box-sizing: border-box; font-family: helvetica, arial, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Mr Lau</span></em></td></tr></tbody></table>
-<br>
 
-<br><br><br><br><br><br><br>
+<div style="width:85%">
+
+| |  |  |
+| -------- | -------- | -------- |
+| ![](/images/2022_website_MrYee-225x300.jpeg) | **Principal** | Mr Yee |
+| ![](/images/2022_website_MrsAng-225x300.jpeg)     | **Vice-Principal**     | *Mrs Ang*     |
+| ![](/images/2022_website_MrLau-225x300.jpeg)     | **Vice-Principal**     | *Mr Lau*     |
+
+</div>
+
 
 Message from Principal
 ----------------------
