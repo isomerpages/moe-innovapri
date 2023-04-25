@@ -3,7 +3,7 @@ title: School Leaders
 permalink: /school-leaders/
 description: ""
 ---
-<div>
+<div style="width:85%">
 	<table>
 		<tbody><tr>
 			<td><img style="width:65%" src="/images/2022_website_MrYee-225x300.jpeg"></td>
