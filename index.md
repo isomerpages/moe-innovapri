@@ -13,7 +13,7 @@ sections:
           description: ""
           url: Exciting Events
   - infopic:
-      title: Integrity
+      title: INTEGRITY
       subtitle: i-STAR value
       image: /images/LLP-19b.jpeg
   - infopic:
