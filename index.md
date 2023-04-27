@@ -16,10 +16,12 @@ sections:
       title: INTEGRITY
       subtitle: i-STAR value
       image: /images/LLP-19b.jpeg
+      alt: i
   - infopic:
       title: SELF-DISCIPLINE
       subtitle: i-STAR value
       image: /images/img_43061.jpg
+      alt: sd
   - infopic:
       title: TEAMWORK
       subtitle: i-star values
