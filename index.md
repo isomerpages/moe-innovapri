@@ -12,28 +12,4 @@ sections:
         - title: Exciting Events
           description: ""
           url: Exciting Events
-  - infopic:
-      title: INTEGRITY
-      subtitle: i-STAR value
-      image: /images/LLP-19b.jpeg
-      alt: i
-  - infopic:
-      title: SELF-DISCIPLINE
-      subtitle: i-STAR value
-      image: /images/img_43061.jpg
-      alt: sd
-  - infopic:
-      title: TEAMWORK
-      subtitle: i-star values
-      image: /images/20220714_094024.jpg
-      alt: Image alt text
-  - infopic:
-      title: ADAPTABILITY
-      subtitle: i-star values
-      image: /images/3db49b3f-f248-4ad5-a900-851f107bc83b.jpeg
-      alt: Image alt text
-  - infopic:
-      title: RESPECT
-      subtitle: i-star value
-      alt: Image alt text
 ---
