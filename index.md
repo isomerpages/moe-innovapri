@@ -19,6 +19,7 @@ sections:
   - infopic:
       title: SELF-DISCIPLINE
       subtitle: i-STAR value
+      image: /images/img_43061.jpg
   - infopic:
       title: TEAMWORK
       subtitle: i-star values
