@@ -1,0 +1,6 @@
+collections:
+  highlights:
+    output: true
+    order:
+      - The Innova Experience 2022.md
+      - Events.md

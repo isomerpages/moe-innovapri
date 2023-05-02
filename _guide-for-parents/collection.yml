@@ -1,0 +1,6 @@
+collections:
+  guide-for-parents:
+    output: true
+    order:
+      - Application Form for Leave of Absence.md
+      - Resources for Parents.md

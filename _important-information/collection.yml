@@ -1,0 +1,7 @@
+collections:
+  important-information:
+    output: true
+    order:
+      - Group Personal Accident Insurance (For Students).md
+      - MOE Sexuality Education.md
+      - CareCorner (Parenting Support Service).md
