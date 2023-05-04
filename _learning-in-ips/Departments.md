@@ -3,6 +3,8 @@ title: Departments
 permalink: /departments/
 description: ""
 ---
+<div style="width:35%">
+
 [![English Language Department](/images/English%20Language%20Department.jpg)](https://sites.google.com/moe.edu.sg/ips-el-dept/home)
 
 [![Mathematics Department](/images/Mathematics%20Department.jpg)](https://sites.google.com/moe.edu.sg/mathematicsdept/home)
@@ -21,9 +23,9 @@ description: ""
 
 ----
 
-[![Character & Citizenship Education (CCE) Department](/images/Character%20&%20Citizenship%20Education%20(CCE)%20Department.jpg)](https://sites.google.com/moe.edu.sg/ips-cce-dept/home)
+[![Character &amp; Citizenship Education (CCE) Department](/images/Character%20&amp;%20Citizenship%20Education%20(CCE)%20Department.jpg)](https://sites.google.com/moe.edu.sg/ips-cce-dept/home)
 
-[![Heart Team & Counselling Team](/images/Heart%20Team%20&%20Counselling%20Team.jpg)](https://innovapri.moe.edu.sg/our-family/our-departments/heart-team-counselling/)
+[![Heart Team &amp; Counselling Team](/images/Heart%20Team%20&amp;%20Counselling%20Team.jpg)](https://innovapri.moe.edu.sg/our-family/our-departments/heart-team-counselling/)
 
 ----
 
@@ -32,3 +34,5 @@ description: ""
 [![Physical Education (PE) Department](/images/Physical%20Education%20(PE)%20Department.jpg)](https://sites.google.com/moe.edu.sg/pedept/home)
 
 [![Programme for Active Learning (PAL)](/images/Programme%20for%20Active%20Learning%20(PAL).jpg)](https://sites.google.com/moe.edu.sg/aestheticsdept/home)
+
+</div>
