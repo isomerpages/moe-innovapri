@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - 2023 DSA/Maris Stella High School.md
       - 2023 DSA/.keep
       - 2023 DSA/Anglo Chinese School Independent.md
+      - 2023 DSA/Maris Stella High School.md
       - 2023 DSA/Methodist Girls' School.md
       - 2023 DSA/Raffles Institution.md
       - 2023 DSA/Singapore Sports School.md
