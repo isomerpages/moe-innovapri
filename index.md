@@ -12,4 +12,7 @@ sections:
         - title: Exciting Events
           description: ""
           url: Exciting Events
+        - title: FT Connect
+          description: FT Connect
+          url: https://sites.google.com/moe.edu.sg/ft-connect/home
 ---
