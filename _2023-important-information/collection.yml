@@ -1,4 +1,5 @@
 collections:
   2023-important-information:
     output: true
-    order: []
+    order:
+      - Moe Sexuality Education.md
