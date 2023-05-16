@@ -10,11 +10,11 @@ Moe Sexuality Education in Schools
 
 2.       The **Goals** of Sexuality Education are:
 
-(a)           To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+(a)           To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate **knowledge** on human sexuality and the consequences of sexual activity;
 
-(b)           To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+(b)           To help students know themselves and build healthy and rewarding relationships through the acquisition of **social and emotional skills** of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-(c)           To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+(c)           To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive **mainstream values and attitudes** about sexuality.
 
 3.       The **Key Messages** of Sexuality Education are:
 
@@ -26,11 +26,11 @@ Moe Sexuality Education in Schools
 
 (d)           Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://go.gov.sg/moe-sexuality-education) (please insert hyperlink: [https://go.gov.sg/moe-sexuality-education](https://go.gov.sg/moe-sexuality-education)[](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)) for more information on MOE Sexuality Education.
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
 **Overview of INNOVA Primary School’s Sexuality Education Programme for 2023**
 
-4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) (please insert hyperlink: [https://go.gov.sg/moe-sexuality-education-scope](https://go.gov.sg/moe-sexuality-education-scope)[](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)) for more information on the scope of Sexuality Education in the school curriculum.
+4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 5.       The subjects that incorporate topics on sexuality include:
 
@@ -56,9 +56,8 @@ b.       Character and Citizenship Education (CCE)
 
 8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex **A** and insert a hyperlink for parents to download the form). The completed opt-out form is to be submitted by 27/01/2023.
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2023%20moe%20sexuality%20education%20in%20schools%202023%20for%20p5%20and%20p6%20(parents%20opt%20out%20form).pdf) . The completed opt-out form is to be submitted by 27/01/2023.
 
 10.      Parents can contact the school at 6894 4693 or email: [innova\_pri@moe.edu.sg](mailto:innova_pri@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 
-[Opt-out form 2023](/files/moe%20sexualitythe%20growing%20years%20programme%20for%20p5%20and%20p6%20(parents%20opt%20out%20form).pdf)
