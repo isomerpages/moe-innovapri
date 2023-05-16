@@ -61,4 +61,4 @@ b.       Character and Citizenship Education (CCE)
 10.      Parents can contact the school at 6894 4693 or email: [innova\_pri@moe.edu.sg](mailto:innova_pri@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 
-[](/files/moe%20sexualitythe%20growing%20years%20programme%20for%20p5%20and%20p6%20(parents%20opt%20out%20form).pdf)
+[Opt-out form 2023](/files/moe%20sexualitythe%20growing%20years%20programme%20for%20p5%20and%20p6%20(parents%20opt%20out%20form).pdf)
