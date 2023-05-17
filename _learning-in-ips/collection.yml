@@ -2,7 +2,6 @@ collections:
   learning-in-ips:
     output: true
     order:
-      - MOE Sexuality Education.md
       - Departments.md
       - CCA/CCA in IPS.md
       - CCA/CCA Teachers in charge.md
