@@ -2,15 +2,15 @@ collections:
   learning-in-ips:
     output: true
     order:
-      - MOE Sexuality Education.md
       - Departments.md
+      - CCA/.keep
       - CCA/CCA in IPS.md
       - CCA/CCA Teachers in charge.md
       - CCA/CCA Policy.md
       - CCA/CCA FAQs.md
-      - CCA/.keep
+      - Distinctive Programmes/.keep
       - Distinctive Programmes/Applied Learning Programme – Nurture innovation
         through Applied Learning.md
       - Distinctive Programmes/Learning for Life Programme @ IPS.md
-      - Distinctive Programmes/.keep
       - IPS Avatars.md
+      - MOE Sexuality Education.md
