@@ -4,7 +4,6 @@ permalink: /school-leaders/
 description: ""
 ---
 
-![](/images/sl%20pict.jpg)
 
 
 
