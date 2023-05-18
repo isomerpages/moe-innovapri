@@ -9,13 +9,18 @@ description: ""
 Message from Principal
 ----------------------
 
-_**Warmest greetings to all and welcome to Innova Primary School**_
 
-On behalf of the school, I would like to express my deepest gratitude to our outgoing principal Ms Winders, for bringing Innova Primary School to where it is today. Under her stewardship, the school progressed from being a very young school to a well-established member of the community. Ms Winders was originally supposed to retire two years ago but instead chose to extend her retirement and brought the school through two very tough years of managing COVID-19 in the school, keeping our pupils and staff safe. Therefore I would like to offer my heartiest congratulations to Ms Winders for being able to finally enjoy her retirement and to embark on a new chapter of her life.
+Welcome to Innova Primary School (IPS), where warmest greetings await you!
 
-In the short time that I have joined the school, I have seen my colleagues working very hard to keep pupils in the school safe from COVID-19, juggling their teaching duties with all the Safe Management Measures. But all their efforts would be naught without the cooperation and partnership of parents. While we are not out of the woods yet, there is light at the end of the tunnel as we strengthen our defences against COVID-19 with the availability of vaccination for our P1 to P5 pupils.
+At IPS, we embrace a powerful theme that extends beyond the confines of our school walls - "For Innova, from Innovians" reminds us that Innova encompasses not just the school itself but also our vibrant neighbourhood and the nurturing environments of our students' homes. Innovians, likewise, encompasses not only our students but also our dedicated teachers, school staff, parents, neighbours, community partners, and the esteemed members of our School Advisory Committee (SAC). We believe in fostering a strong sense of community among our students, encouraging them to realise their place within a larger network of support and collaboration.
 
-As we start the new year with renewed energy and fresh hopes, we will endeavour to build a positive school culture of care and strengthen pupils’ resilience while encouraging them to voice out, to support their peers and to practise gratitude. These are captured in our theme for 2022 - For Innova, From Innovians. Innova refers to not just the school, but the wider community surrounding the school and Innovians refer to not just pupils, but staff, parents and other stakeholders of the school. I look forward to furthering the strong partnership that the school has with all of you.
+We firmly believe that parents are instrumental in their children's holistic development, and we invite you to join forces with us in creating an environment that sparks a lifelong love for learning, nurtures innovation and creativity, and cultivates essential life skills. We place great value on regular and open communication with parents, not just regarding academic achievements but encompassing all facets of their children's education. We should not reduce children to numbers and discuss their development only in terms of test (assessment) scores. Instead, we need to recognize the uniqueness of each child's educational journey and foster their growth as multifaceted individuals.
+
+Besides parents, our cherished neighbours, community partners, and our SAC members are pivotal in our students' educational journey. Your partnerships and expertise enrich our students' school experiences, providing them with learning opportunities that transcend the boundaries of our school.
+
+We would like to invite all of you to co-create school experiences that empower our students to become confident, resilient, and successful individuals, poised to make a positive difference in the world.
+
+Thank you for being part of our vibrant community. Together, we will inspire and shape the future leaders of tomorrow.
 
 **Mr Yee**  
 _Principal_
