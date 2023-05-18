@@ -3,9 +3,7 @@ title: School Leaders
 permalink: /school-leaders/
 description: ""
 ---
-
-
-
+![schoolleaders](/images/sl%20pict.jpg)
 
 
 Message from Principal
