@@ -19,7 +19,6 @@ sections:
       title: IPS 15
       subtitle: 15th Anniversary
       description: Together our dreams continue
-      button: Click here
       alt: logo
       url: y
       image: /images/ips15logo1.png
