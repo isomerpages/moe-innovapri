@@ -15,4 +15,10 @@ sections:
         - title: FT Connect
           description: FT Connect
           url: https://sites.google.com/moe.edu.sg/ft-connect/home
+  - infopic:
+      title: IPS 15
+      subtitle: 15th Anniversary
+      description: "Celebration "
+      button: Button Text
+      alt: Image alt text
 ---
