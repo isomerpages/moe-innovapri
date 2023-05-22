@@ -22,4 +22,5 @@ sections:
       button: Click here
       alt: Image alt text
       url: y
+      image: /images/ips15logo1.png
 ---
