@@ -18,7 +18,8 @@ sections:
   - infopic:
       title: IPS 15
       subtitle: 15th Anniversary
-      description: "Celebration "
-      button: Button Text
+      description: Together our dreams continue
+      button: Click here
       alt: Image alt text
+      url: y
 ---
