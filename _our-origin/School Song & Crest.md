@@ -1,5 +1,5 @@
 ---
-title: School Song &amp; Crest
+title: School Song & Crest
 permalink: /school-song-crest/
 description: ""
 ---
@@ -68,4 +68,4 @@ Together we create
 Our future for all to see  
 We Dare to Dream
 
-(insert MP3 file here)
+[School Song ](https://drive.google.com/file/d/12pXhfXyok0uemaWMJXjQwYhUoK3WIIVo/view?usp=share_link)
