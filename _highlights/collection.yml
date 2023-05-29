@@ -2,6 +2,6 @@ collections:
   highlights:
     output: true
     order:
-      - Total Defence Day 2023/Events.md
-      - Total Defence Day 2023/.keep
       - The Innova Experience 2022.md
+      - Total Defence Day 2023/.keep
+      - Total Defence Day 2023/Events.md
