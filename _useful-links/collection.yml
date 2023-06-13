@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - For staff 2023.md
       - 2023 DSA/.keep
       - 2023 DSA/Anglo Chinese School Independent.md
       - 2023 DSA/Dunman High (added 19 May 2023).md
@@ -21,5 +20,6 @@ collections:
       - Student Learning Space.md
       - "Student Learning Space: School based Helpdesk.md"
       - Resources for Parents.md
+      - For staff 2023.md
       - For Staff.md
       - Library OPAC.md
