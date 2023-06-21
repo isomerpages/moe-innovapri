@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgifcom-gif-maker.gif
+      background: /images/gif final home.gif
       key_highlights:
         - title: Events
           description: Browse  school events here
