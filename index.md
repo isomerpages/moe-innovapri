@@ -24,13 +24,13 @@ sections:
   - infopic:
       title: Learning for Life Programme
       button: Read more
-      image: /images/P4_CPS-768x373.jpeg
+      image: /images/no one owes singapore a living 3.jpg
       alt: Image alt text
       url: https://www.innovapri.moe.edu.sg/learning-for-life-programme-ips/
   - infopic:
       title: Avatars
       button: Button Text
       url: https://staging.d3nhhzbd955diy.amplifyapp.com/ips-avatars/
-      image: /images/uniformed group pic.png
+      image: /images/uniformed_group_pic_1_431x500.png
       alt: Image alt text
 ---
