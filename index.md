@@ -29,7 +29,7 @@ sections:
       url: https://www.innovapri.moe.edu.sg/learning-for-life-programme-ips/
   - infopic:
       title: Avatars
-      button: Button Text
+      button: Read more
       url: https://staging.d3nhhzbd955diy.amplifyapp.com/ips-avatars/
       image: /images/uniformed_group_pic_1_431x500.png
       alt: Image alt text
