@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Departments.md
-      - CCA/2023 CCA.md
+      - CCA/CCA in IPS.md
       - CCA/.keep
       - CCA/CCA Teachers in charge.md
       - CCA/CCA Policy.md
