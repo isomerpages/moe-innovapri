@@ -27,4 +27,10 @@ sections:
       image: /images/P4_CPS-768x373.jpeg
       alt: Image alt text
       url: https://www.innovapri.moe.edu.sg/learning-for-life-programme-ips/
+  - infopic:
+      title: Avatars
+      button: Button Text
+      url: https://staging.d3nhhzbd955diy.amplifyapp.com/ips-avatars/
+      image: /images/uniformed group pic.png
+      alt: Image alt text
 ---
