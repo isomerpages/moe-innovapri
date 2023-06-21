@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Events
           description: Browse  school events here
-          url: https://cms.isomer.gov.sg/sites/moe-innovapri/folders/highlights/subfolders/Events/editPage/Total%20Defence%20Day%202023.md
+          url: https://www.innovapri.moe.edu.sg/tdd2023/
         - title: FT Connect
           description: Contact Form Teachers here
           url: https://sites.google.com/moe.edu.sg/ft-connect/home
