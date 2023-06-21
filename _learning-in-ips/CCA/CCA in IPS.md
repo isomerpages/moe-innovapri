@@ -4,8 +4,12 @@ permalink: /cca-in-ips/
 description: ""
 third_nav_title: CCA
 ---
+
 <p style="color:black" align="right">Updated Dec 2022</p>
 
+
+|&nbsp;&nbsp; |&nbsp;&nbsp; |&nbsp;&nbsp; |
+| -------- | -------- | -------- |
 <h1 style="color:red" align="middle">SPORTS</h1>
 
 [![Track &amp; Field CCA](/images/Track%20&amp;%20Field%20CCA.jpg)](https://sites.google.com/moe.edu.sg/ips-tnf-cca/home)
