@@ -16,6 +16,13 @@ sections:
           description: Contact Form Teachers here
           url: https://sites.google.com/moe.edu.sg/ft-connect/home
   - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have A question?
+      button: VIEW & ASK QUESTIONS HERE
+      url: https://ask.gov.sg/ips#home
+      image: /images/ips-askgov.png
+      alt: Image alt text
+  - infopic:
       title: Applied Learning Programme
       button: Read more
       url: https://www.innovapri.moe.edu.sg/applied-learning-programme-alp/
