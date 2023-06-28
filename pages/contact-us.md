@@ -17,7 +17,8 @@ locations:
 contacts:
   - content:
       - phone: +65 6894 4693
-      - email: innova_pri@moe.edu.sg
-      - other: ""
+      - email: ""
+      - other: <br><p><strong>Have A Question?</strong><br> Ask and get answered on our
+          <a href="http://https://ask.gov.sg/ips">[Q&A Page]</a><br></p>
     title: General Enquiries & Feedback
 ---
