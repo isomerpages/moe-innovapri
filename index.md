@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/23062023 gif.gif
       key_highlights:
         - title: Events
           description: Browse  school events here
