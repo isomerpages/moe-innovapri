@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/23062023 gif.gif
       key_highlights:
         - title: Events
           description: Browse  school events here
@@ -15,6 +14,7 @@ sections:
         - title: FT Connect
           description: Contact Form Teachers here
           url: https://sites.google.com/moe.edu.sg/ft-connect/home
+      background: /images/homegif_1.gif
   - infopic:
       title: Applied Learning Programme
       button: Read more
