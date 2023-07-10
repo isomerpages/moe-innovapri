@@ -17,4 +17,5 @@ These terms and conditions govern the use and access to the school website and i
 7. Disclaimer of Liability: The school shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of or in connection with the use or inability to use the website or its content. This includes but is not limited to any errors, omissions, viruses, or technical malfunctions.
 8. Changes to Terms and Conditions: The school reserves the right to modify or update these terms and conditions at any time without prior notice. It is the responsibility of users to review the terms periodically for any changes.
 9. Governing Law and Jurisdiction: These terms and conditions shall be governed by and construed in accordance with the laws of Singapore. Any disputes arising out of or relating to these terms shall be subject to the exclusive jurisdiction of the courts in Singapore.
+
 By accessing and using the school website, you acknowledge that you have read, understood, and agreed to these terms and conditions. If you do not agree with any part of these terms, please discontinue use of the website.

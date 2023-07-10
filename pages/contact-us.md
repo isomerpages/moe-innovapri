@@ -19,6 +19,6 @@ contacts:
       - phone: +65 6894 4693
       - email: ""
       - other: <br><p><strong>Have A Question?</strong><br> Ask and get answered on our
-          <a href="http://https://ask.gov.sg/ips">[Q&A Page]</a><br></p>
+          <a href="https://ask.gov.sg/ips#home">[Q&A Page]</a><br></p>
     title: General Enquiries & Feedback
 ---
