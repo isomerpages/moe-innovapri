@@ -28,10 +28,10 @@ sections:
       alt: Image alt text
       url: https://www.innovapri.moe.edu.sg/learning-for-life-programme-ips/
   - infopic:
-      title: Avatars
+      title: InnovaTech (IT) Influencers
       button: Read more
-      url: https://staging.d3nhhzbd955diy.amplifyapp.com/ips-avatars/
-      image: /images/uniformed_group_pic_1_431x500.png
+      url: https://sites.google.com/moe.edu.sg/ict-dept/home/learn-for-life?authuser=0
+      image: /images/it influencers.jpeg
       alt: Image alt text
   - infopic:
       title: Get official answers from our Q&A Platform
