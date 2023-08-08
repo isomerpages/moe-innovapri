@@ -37,4 +37,22 @@ In the stories submitted, students had featured the IPS Avatars as the main char
 In the spirit of educating students about protecting our Earth and its natural resources, students were also encouraged to dress up in their favourite book character costumes that are made using recycled materials. As with previous years, the costumes worn by both students and staff added more excitement to the celebrations. One winner from each class was selected as the ‘Best Book Character Costume’. Winners were awarded with a medal each for their marvellous efforts. 
 
 ![](/images/wbd23%2010.jpg)
+![](/images/wbd23%2011.jpg)
+![](/images/wbd23%2012.jpg)
+![](/images/wbd23%2013.jpg)
+![](/images/wbd23%2014.jpg)
+![](/images/wbd23%2015.jpg)
 
+*Students and staff came in their fanciest costumes made from recycled items on 20 April 2023 for the Earth Day and World Book Day celebrations*
+
+**Virtual ‘Pyjama Storytelling Party’**
+
+As a closing to the Earth Day & World Book Day celebrations, the annual virtual ‘Pyjama Storytelling Party’ was held via Zoom for all students and parents on Thursday, 20 April 2023 from 6.00 p.m. to 7.00 p.m. 
+A total of 85 students attended the storytelling sessions which included the English Language session by the school librarian, Ms Leong, the Chinese Language session by Mr. Chong, the Malay Language session by Mdm. Anisah and Tamil Language session by Ms. Valli, which were well received by both students and parents alike.
+
+![](/images/wbd23%2016.jpg)
+![](/images/wbd23%2017.jpg)
+![](/images/wbd23%2018.jpg)
+![](/images/wbd23%2019.jpg)
+
+*Students enjoyed English and Mother Tongue storytelling sessions during the Virtual ‘Pyjama Storytelling Party’ on 20 June 2023*
