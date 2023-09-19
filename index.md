@@ -40,4 +40,12 @@ sections:
       url: https://ask.gov.sg/ips#home
       image: /images/ips-askgov.png
       alt: Image alt text
+  - infopic:
+      title: Singapore Book of Records
+      subtitle: "Total of 1022 upcycled bags! "
+      id: infopic
+      description: "Innova Primary School proudly enters the Singapore Book of
+        Records. Thank you to all parents, pupils and staff for your support! "
+      image: /images/myob group.jfif
+      alt: Image alt text
 ---
