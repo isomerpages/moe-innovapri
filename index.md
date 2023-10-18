@@ -18,11 +18,11 @@ sections:
   - infopic:
       title: NIE Caring Teacher Award
       id: infopic
-      description: |+
-        Nominate your favourite teacher for the NIE Caring Teacher Award!
-
+      description: Nominate your favourite teacher for the NIE Caring Teacher Award!
       image: /images/poster-cta-2024.jpg
       alt: Image alt text
+      url: /articles-2023/cta2024/
+      button: CLICK TO FIND OUT MORE
   - infopic:
       title: Singapore Book of Records
       subtitle: Total of 1022 upcycled bags!
