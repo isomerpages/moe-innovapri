@@ -24,12 +24,7 @@ Along with the tips that students had gained from our ‘Author Talk’ programm
 In the stories submitted, students had featured the IPS Avatars as the main characters, displaying the different avatar traits and behaviours as well as the school’s ISTAR values. Students also presented their stories which were in line with the theme of environmental issues. A total of 63 submissions were received from students across Primary 1 to Primary 6 classes. Six winners were chosen, one from every level. They were awarded for their outstanding stories which included those written in both English and Mother Languages. The winners also earned Avatar points for their respective teams. The winning stories were also shared beyond the school by our student representatives, namely with the Woodgrove community at the Woodgrove's World Environment Day event on 18th June 2023.
 
 
-![](/images/wbd23%204.png)
-![](/images/wbd23%205.jpg)
-![](/images/wbd23%206.jpg)
-![](/images/wbd23%207.jpg)
-![](/images/wbd23%208.jpg)
-![](/images/wbd23%209.jpg)
+
 *Winners of the ‘Write On! – Chronicles of the IPS Avatars’ Writing Competition 2023*
 
 ***Book Characters Costume-Making Competition***
@@ -50,9 +45,6 @@ In the spirit of educating students about protecting our Earth and its natural r
 As a closing to the Earth Day & World Book Day celebrations, the annual virtual ‘Pyjama Storytelling Party’ was held via Zoom for all students and parents on Thursday, 20 April 2023 from 6.00 p.m. to 7.00 p.m. 
 A total of 85 students attended the storytelling sessions which included the English Language session by the school librarian, Ms Leong, the Chinese Language session by Mr. Chong, the Malay Language session by Mdm. Anisah and Tamil Language session by Ms. Valli, which were well received by both students and parents alike.
 
-![](/images/wbd23%2016.jpg)
-![](/images/wbd23%2017.jpg)
-![](/images/wbd23%2018.jpg)
-![](/images/wbd23%2019.jpg)
+
 
 *Students enjoyed English and Mother Tongue storytelling sessions during the Virtual ‘Pyjama Storytelling Party’ on 20 June 2023*
