@@ -4,7 +4,6 @@ permalink: /highlights/events/ac2023/
 description: ""
 third_nav_title: Events
 ---
-
 On Monday, September 18, 2023, the Art & Crafts Club CCA embarked on an exciting excursion to Kamal’s Art Studio and Gallery, located at Wisma Geylang Serai.
 
 During this visit, our students had the privilege of immersing themselves in the world of art under the guidance of Mr. Kamal Dollah, a renowned local artist and art educator. Mr. Kamal graciously welcomed our students and shared his vast knowledge while taking them on a tour of his gallery which showcased his significant contributions to both our nation and the broader community. Our students had a unique opportunity to work alongside him in his studio, witnessing the mastery of his craft firsthand.
@@ -20,7 +19,7 @@ We are delighted to share some unforgettable moments captured during the visit. 
 
 ![](/images/art_lj4.jpg)
 
-![](/images/art_lj2.JPG)
+![](/images/art%20club%20learning%20journey2023.jpg)
 
 ![](/images/art_lj3.JPG)
 
