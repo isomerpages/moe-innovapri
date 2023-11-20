@@ -2,5 +2,6 @@ collections:
   archive-pages-2023:
     output: true
     order:
+      - Hwa Chong International School.md
       - Dunman High (added 19 May 2023).md
       - Anglo Chinese School Independent.md
