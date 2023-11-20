@@ -2,6 +2,7 @@ collections:
   archive-pages-2023:
     output: true
     order:
+      - Methodist Girls' School.md
       - Maris Stella High School (added 8th May).md
       - Hwa Chong Institution (added 19 may 2023).md
       - Hwa Chong International School.md
