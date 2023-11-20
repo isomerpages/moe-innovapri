@@ -2,6 +2,7 @@ collections:
   archive-pages-2023:
     output: true
     order:
+      - Victoria School.md
       - Temasek Junior College.md
       - St Joseph's Institution (added 8th May).md
       - Singapore Sports School.md
