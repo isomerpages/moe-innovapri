@@ -2,6 +2,7 @@ collections:
   archive-pages-2023:
     output: true
     order:
+      - Singapore Sports School.md
       - Raffles Institution.md
       - NUS High School (added 12may 2023).md
       - Methodist Girls' School.md
