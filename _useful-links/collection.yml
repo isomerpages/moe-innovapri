@@ -2,21 +2,8 @@ collections:
   useful-links:
     output: true
     order:
-      - 2023 DSA/.keep
-      - 2023 DSA/Anglo Chinese School Independent.md
-      - 2023 DSA/Dunman High (added 19 May 2023).md
-      - 2023 DSA/Hwa Chong International School.md
-      - 2023 DSA/Hwa Chong Institution (added 19 may 2023).md
-      - 2023 DSA/Maris Stella High School (added 8th May).md
-      - 2023 DSA/Methodist Girls' School.md
-      - 2023 DSA/NUS High School (added 12may 2023).md
-      - 2023 DSA/Raffles Institution.md
-      - 2023 DSA/Singapore Sports School.md
-      - 2023 DSA/St Joseph's Institution (added 8th May).md
-      - 2023 DSA/Temasek Junior College.md
-      - 2023 DSA/Victoria School.md
-      - 2023 DSA/Yishun Secondary School (added 9th May).md
-      - 2023 DSA/Yishun Town Secondary School (added 4th may).md
+      - 2023 Sec School Open House/Temasek Junior College.md
+      - 2023 Sec School Open House/.keep
       - Student Learning Space.md
       - "Student Learning Space: School based Helpdesk.md"
       - Resources for Parents.md

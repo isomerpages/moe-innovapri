@@ -2,7 +2,6 @@
 title: Anglo Chinese School Independent
 permalink: /useful-links/2023-dsa/asci/permalink/
 description: ""
-third_nav_title: 2023 DSA
 ---
 Details of our Open House will be available from our school website [www.acsindep.moe.edu.sg/events/openhouse/](https://www.acsindep.moe.edu.sg/events/openhouse/) nearer to 15 April 2023.
 

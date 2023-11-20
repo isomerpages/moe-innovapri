@@ -2,7 +2,6 @@
 title: Raffles Institution
 permalink: /useful-links/2023-dsa/raffles-institution/permalink/
 description: ""
-third_nav_title: 2023 DSA
 ---
 Registration link for RI Open House Carnival: [https://evnk.co/rioh23](https://evnk.co/rioh23)  
 Registration link for Guided School Tours: [https://evnk.co/rioh23-tours](https://evnk.co/rioh23-tours)
