@@ -2,6 +2,7 @@ collections:
   archive-pages-2023:
     output: true
     order:
+      - Yishun Secondary School (added 9th May).md
       - Victoria School.md
       - Temasek Junior College.md
       - St Joseph's Institution (added 8th May).md
