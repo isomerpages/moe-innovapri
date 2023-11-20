@@ -1,4 +1,5 @@
 collections:
   archive-pages-2023:
     output: true
-    order: []
+    order:
+      - Anglo Chinese School Independent.md
