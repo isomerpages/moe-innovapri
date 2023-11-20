@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2023 DSA/.keep
-      - 2023 DSA/Temasek Junior College.md
       - 2023 DSA/Victoria School.md
       - 2023 DSA/Yishun Secondary School (added 9th May).md
       - 2023 DSA/Yishun Town Secondary School (added 4th may).md
