@@ -2,6 +2,7 @@ collections:
   archive-pages-2023:
     output: true
     order:
+      - Temasek Junior College.md
       - St Joseph's Institution (added 8th May).md
       - Singapore Sports School.md
       - Raffles Institution.md
