@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - P1 Orientation.md
       - 2023 Sec School Open House/Temasek Junior College.md
       - 2023 Sec School Open House/.keep
       - Student Learning Space.md
