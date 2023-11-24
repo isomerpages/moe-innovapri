@@ -32,6 +32,13 @@ sections:
       image: /images/myob group.jfif
       alt: Image alt text
   - infopic:
+      title: IPS 15 Celebrations
+      id: infopic
+      button: Click here to find out more
+      url: https://sites.google.com/moe.edu.sg/ips-15/home
+      image: /images/ips15logo1.png
+      alt: Image alt text
+  - infopic:
       title: Applied Learning Programme
       button: Read more
       url: https://www.innovapri.moe.edu.sg/applied-learning-programme-alp/
