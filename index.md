@@ -53,7 +53,7 @@ sections:
   - infopic:
       title: InnovaTech (IT) Influencers
       button: Read more
-      url: https://sites.google.com/moe.edu.sg/ict-dept/home/learn-for-life?authuser=0
+      url: https://sites.google.com/d/1thQRKJ1tGws8URLYkJHKa4PXK2LgCckk/p/1oxXPrjvUJInD54ceOheff4AtMwKKq1cg/edit?pli=1
       image: /images/it influencers.jpeg
       alt: Image alt text
   - infopic:
