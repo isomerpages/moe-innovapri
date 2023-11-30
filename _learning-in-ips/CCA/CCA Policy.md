@@ -3,10 +3,11 @@ title: CCA Policy
 permalink: /cca-policy/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-<p style="text-align:right;"><em>Innova Primary School<br>PE & CCA Department 2022</em></p>
 
-<h5 style="color:black" align="center"><u>IPS CCA Policy 2022</u></h5>
+
+<h5 style="color:black" align="center"><u>IPS CCA Policy</u></h5>
 
 
 <h5 style="color:black" align="left">Role of Co-Curriculum</h5>
@@ -27,9 +28,9 @@ All CCAs emphasise social interaction by providing a common space for friendship
 
 To encourage sustained participation and progressive development of skills, values and attitudes through CCAs, your child / ward (in Primary 1 to Primary 6) is strongly encouraged to commit to his / her CCA for at least 2 years or more.
 
-If your child / ward does not fulfil the 2 year CCA commitment, he / she may not be considered for a change in CCA until the subsequent year’s CCA Updating Exercise (e.g. If Child A withdraws from CCA in 2020 without fulfilling the 2 year commitment, he / she will only be eligible to sign up for another CCA in 2022.) Please note that alternative requests with valid reason(s) and supporting document(s) will be considered on a case by case basis by the PE & CCA department.
+If your child / ward does not fulfil the 2 year CCA commitment, he / she may not be considered&nbsp;for a change in CCA until the subsequent year’s CCA Updating Exercise (e.g. If Child A withdraws&nbsp;from CCA in 2020 without fulfilling the 2 year commitment, he / she will only be eligible to sign&nbsp;up for another CCA in 2022.) Please note that alternative requests with valid reason(s) and&nbsp;supporting document(s) will be considered on a case by case basis by the PE &amp; CCA department.
 
-Your child / ward will be issued a CCA Updating Form to fill in any necessary CCA-related request once a year. All CCA requests can only be made during this CCA Updating exercise.
+Your child / ward will be issued a CCA Updating Form to fill in any necessary CCA-related request&nbsp;once a year. All CCA requests can only be made during this CCA Updating&nbsp;exercise.
 
 The CCA Updating Exercise is the period where your child / ward can:  
   
@@ -38,6 +39,6 @@ The CCA Updating Exercise is the period where your child / ward can:
 3\. Request for a change of CCA  
 4\. Request for a withdrawal from CCA
 
-Please be reminded that if your child / ward is in P3 to P6, he / she must fulfil the required CCA commitment of at least 2 years to be eligible for change or withdrawal from his / her current CCA, if any.
+Please be reminded that if your child / ward is in P3 to P6, he / she must fulfil the required CCA&nbsp;commitment of at least 2 years to be eligible for change or withdrawal from his / her current&nbsp;CCA, if any.
 
-Please note that all requests made are subject to vacancies available in each CCA. In addition, your child / ward might be called upon to go through try-outs for the CCAs. Your child / ward will receive the results for the respective requests in Term 3.
+Please note that all requests made are subject to vacancies available in each CCA. In addition,&nbsp;your child / ward might be called upon to go through try-outs for the CCAs. Your child / ward&nbsp;will receive the results for the respective requests in Term 3.
