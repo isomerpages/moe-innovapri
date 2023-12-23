@@ -2,6 +2,7 @@
 title: School Song & Crest
 permalink: /school-song-crest/
 description: ""
+variant: markdown
 ---
 ### **Dare to Dream**
 
@@ -64,4 +65,4 @@ Together we create
 Our future for all to see  
 We Dare to Dream
 
-[School Song ](https://drive.google.com/file/d/12pXhfXyok0uemaWMJXjQwYhUoK3WIIVo/view?usp=share_link)
+[[School Song](https://drive.google.com/file/d/11m_0s6JNAjfbvsy-mIzHKGEBz4Oulpvb/view?usp=sharing) ](https://drive.google.com/file/d/12pXhfXyok0uemaWMJXjQwYhUoK3WIIVo/view?usp=share_link)
