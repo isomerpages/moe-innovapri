@@ -2,6 +2,7 @@
 title: Local
 permalink: /local-partnerships/
 description: ""
+variant: markdown
 ---
 ### Singapore Kindness Movement (SKM)
 
@@ -52,9 +53,7 @@ This award aims to recognise students who embody the spirit of giving back and e
 
 ![](/images/ips%20platinum%202023.jpg)
 			<br>
-			![](/images/adinda%20hannah.jpg)
 			<br>
-			![](/images/shanyce%20pang.jpg)
 			</div></li><li>
 	<input type="checkbox" id="accordion26">
     <label for="accordion26"><h4>PLATINUM AWARD in 2022</h4>
@@ -74,26 +73,11 @@ img {
 
 <br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Picture9.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
   
 
 <br>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Picture10.png" alt="PLATINUM AWARD in 2022" style="width:70%;">  
+
 <br>  
 
   </div></li><li>
@@ -108,8 +92,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/gold%20award%202021.jpg" alt="GOLD AWARD in 2021" style="width:100%;">  
-  
+			
+![](/images/2021_north_west_outstanding.jpeg)  
 
 <br>
     </div>
