@@ -1,0 +1,16 @@
+logo: /images/logo.png
+links:
+  - title: Our Origin
+    collection: our-origin
+  - title: Learning in IPS
+    collection: learning-in-ips
+  - title: Highlights
+    collection: highlights
+  - title: Partnerships
+    collection: partnerships
+  - title: Useful Links
+    collection: useful-links
+  - title: Have A Question?
+    url: https://ask.gov.sg/ips#home
+  - title: IPS Virtual Gallery
+    url: https://4d.silversea-media.com/view/ipsVirtualGallery/
