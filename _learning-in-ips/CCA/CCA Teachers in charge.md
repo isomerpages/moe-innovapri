@@ -109,7 +109,8 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>MS SURIYA
 <br>MDM NISHA
-<br>MR SEAN LEE</p>
+<br>MDM JUNAIDAH
+<br>MS FARAH</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +129,11 @@ variant: markdown
 <p>MALAY &amp; CHINESE DANCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM ANISAH
+<p>MDM VALLI
 <br>MS ESTHER CHANG
 <br>MDM NURDIANAH
-<br>MDM LAI</p>
+<br>MDM JULIANA
+<br>MDM CHONG</p>
 </td>
 </tr>
 </tbody>
