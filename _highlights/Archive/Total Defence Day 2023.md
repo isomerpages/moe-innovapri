@@ -2,7 +2,7 @@
 title: Total Defence Day 2023
 permalink: /tdd2023/
 description: ""
-third_nav_title: Events
+third_nav_title: Archive
 ---
 Total Defence involves every Singaporean playing a part, individually and collectively, to build a strong, secure and cohesive nation. When we are strong, we are able to deal with any crisis.
 
