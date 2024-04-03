@@ -29,7 +29,7 @@ sections:
       id: infopic
       description: Innova Primary School proudly enters the Singapore Book of Records.
         Thank you to all parents, pupils and staff for your support!
-      image: /images/myob group.jfif
+      image: /images/MYOB_group_JPEG.jpg
       alt: Image alt text
   - infopic:
       title: IPS 15 Celebrations
