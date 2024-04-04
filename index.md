@@ -34,13 +34,6 @@ sections:
       image: /images/it influencers.jpeg
       alt: Image alt text
   - infopic:
-      title: IPS 15 Celebrations
-      id: infopic
-      button: Click here to find out more
-      url: https://sites.google.com/moe.edu.sg/ips-15/home
-      image: /images/ips15logo1.png
-      alt: Image alt text
-  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
       button: VIEW & ASK QUESTIONS HERE
