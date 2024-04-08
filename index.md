@@ -33,6 +33,8 @@ sections:
       url: https://sites.google.com/moe.edu.sg/innovatechinfluencereventsblog/home
       image: /images/it influencers.jpeg
       alt: Image alt text
+      description: Find out more as our IT influencers discover their unique role of
+        creating contents and videos for the school.
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
