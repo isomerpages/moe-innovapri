@@ -33,6 +33,15 @@ sections:
       url: https://sites.google.com/moe.edu.sg/innovatechinfluencereventsblog/home
       image: /images/it influencers.jpeg
       alt: Image alt text
+      description: Find out more as our IT influencers discover their unique role of
+        creating contents and videos for the school.
+  - infopic:
+      title: IPS VIRTUAL GALLERY
+      id: infopic
+      button: Click here
+      url: https://4d.silversea-media.com/view/ipsVirtualGallery/
+      image: /images/15_revision4_sides_Camera034.jpg
+      alt: Image alt text
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
