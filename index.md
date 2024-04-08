@@ -36,17 +36,17 @@ sections:
       description: Find out more as our IT influencers discover their unique role of
         creating contents and videos for the school.
   - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: Have A question?
-      button: VIEW & ASK QUESTIONS HERE
-      url: https://ask.gov.sg/ips#home
-      image: /images/ips-askgov.png
-      alt: Image alt text
-  - infopic:
       title: IPS VIRTUAL GALLERY
       id: infopic
       button: Click here
       url: https://4d.silversea-media.com/view/ipsVirtualGallery/
       image: /images/15_revision4_sides_Camera034.jpg
+      alt: Image alt text
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have A question?
+      button: VIEW & ASK QUESTIONS HERE
+      url: https://ask.gov.sg/ips#home
+      image: /images/ips-askgov.png
       alt: Image alt text
 ---
