@@ -15,6 +15,19 @@ sections:
           description: Contact Form Teachers here
           url: https://sites.google.com/moe.edu.sg/ft-connect/home
       background: /images/homegif_1.gif
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: School Open House 2024
+          date: 09 May 2024
+          announcement: The upcoming Open House event is specifically tailored for invited
+            preschools only and not open to the public. Should you have any
+            further inquiries or require information about other opportunities
+            to engage with our school, please feel free to contact us
+            directly.  Thank you for your interest.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Applied Learning Programme
       button: Read more
