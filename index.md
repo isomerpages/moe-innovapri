@@ -19,7 +19,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: School Open House 2024
+        - title: School Open House 2024 (14-17 May 2024)
           date: 09 May 2024
           announcement: The upcoming Open House event is specifically tailored for invited
             preschools only and not open to the public. Should you have any
