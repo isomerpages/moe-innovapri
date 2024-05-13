@@ -40,6 +40,11 @@ Student (OARS) Award 2024. This esteemed accolade aims to commend students
 who exemplify the ethos of altruism and demonstrate excellence in Community
 Service, CCA, Leadership, and Academics during the Academic year (January
 to December 2023).</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IPS___NWCDC_Platinum_award.jpg">
+</div>
 </div>
 </details>
 </div>
