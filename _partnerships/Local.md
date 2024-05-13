@@ -49,9 +49,13 @@ to December 2023).</p>
 </details>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>North West Outstanding School Partner Award 2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
-<p>PLATINUM AWARD in 2023</p>
 <p>PLATINUM AWARD for North West Outstanding School Partner Award 2023</p>
 <p>Innova Primary School has achieved the PLATINUM AWARD for the North West
 Outstanding School Partner Award (SPA) 2023! This award is given to schools
@@ -63,18 +67,22 @@ Award 2023.</p>
 <p>This award aims to recognise students who embody the spirit of giving
 back and excel in his or her Community Service, CCA, Leadership and Academics
 during Academic year (January to December 2022).</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ips%20platinum%202023.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
-</li>
-<li>
-<p>PLATINUM AWARD in 2022</p>
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>North West Outstanding School Partner Award 2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<ul>
+<li>
 <p>Innova Primary School has achieved the PLATINUM AWARD for the North West
 Outstanding School Partner Award (SPA) 2022! This award is given to schools
 who have participated actively in Community Development Councils (CDC)
@@ -83,15 +91,21 @@ and Ng Cheng Jie, class of 2021 are also given the Outstanding All Rounders
 Student (OARS) Award 2022. This award aims to recognise students who embody
 the spirit of giving back and excel in his or her Community Service, CCA,
 Leadership and Academics during Academic year (January to December 2021).</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:70%;" height="auto" width="100%" alt="PLATINUM AWARD in 2022" src="/images/Picture8.png">
 </div>
-<p>
-<br>
-<br>
-<br>
-</p>
-</li>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>North West Outstanding School Partner Award 2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<ul>
 <li>
 <p>GOLD AWARD in 2021</p>
 <p>Innova Primary School has achieved Gold for the North West Outstanding
@@ -102,13 +116,21 @@ Wan Xuan, class of 2020 are also given the Outstanding All Rounders Student
 (OARS) Award 2021. This award aims to recognise students who embody the
 spirit of giving back and excel in his or her Community Service, CCA, Leadership
 and Academics during Academic year (January to December 2020).</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2021_north_west_outstanding.jpeg">
 </div>
-<p>
-<br>
-</p>
-</li>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>North West Outstanding School Partner Award 2020</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<ul>
 <li>
 <p>GOLD AWARD in 2020</p>
 <p>Innova Primary School received the&nbsp;GOLD AWARD&nbsp;for North West
@@ -119,11 +141,18 @@ Lun Kiat (Wang Runjie), class of 2019 are also given the Outstanding All
 Rounders Student (OARS)&nbsp;Award 2020. This award aims to recognise students
 who embody the spirit of giving back and excel in his or her Community
 Service, CCA, Leadership and Academics during Academic year (<strong>January to December 2019</strong>).</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GOLD AWARD in 2020" src="/images/Innova-Primary-SchoolLong-1024x853.jpeg">
 </div>
-</li>
-</ul>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <hr>
 <h3>North West Community Development Council</h3>
 <ul>
