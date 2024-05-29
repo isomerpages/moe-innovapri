@@ -52,8 +52,7 @@ description: ""
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the application
 <a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a>. You may also request for a hardcopy from the School’s General
 Office.</p>
-<p><strong><u>Application Form</u></strong>
-</p>
+<p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attached the following documents together
 with the application form:</p>
 <ul data-tight="true" class="tight">
