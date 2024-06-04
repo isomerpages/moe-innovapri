@@ -14,7 +14,7 @@ sections:
         - title: FT Connect
           description: Contact Form Teachers here
           url: https://sites.google.com/moe.edu.sg/ft-connect/home
-      background: /images/homegif_1.gif
+      background: /images/2024_home_GIF.gif
   - announcements:
       title: Announcements
       id: announcements
