@@ -14,7 +14,7 @@ sections:
         - title: FT Connect
           description: Contact Form Teachers here
           url: https://sites.google.com/moe.edu.sg/ft-connect/home
-      background: /images/2024_home_GIF.gif
+      background: /images/gif_homepage_5_2024.gif
   - infopic:
       title: Applied Learning Programme
       button: Read more
