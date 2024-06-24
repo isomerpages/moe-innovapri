@@ -2,4 +2,5 @@ collections:
   archive-page-2024:
     output: true
     order:
+      - School Canteen Advertisement.md
       - example-page.md
