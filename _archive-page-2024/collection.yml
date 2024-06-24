@@ -1,0 +1,5 @@
+collections:
+  archive-page-2024:
+    output: true
+    order:
+      - example-page.md
