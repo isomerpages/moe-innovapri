@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>School Bookshop </strong>
+<summary><strong>School Bookshop</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
