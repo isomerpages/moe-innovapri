@@ -5,10 +5,16 @@ description: ""
 third_nav_title: School Information
 variant: tiptap
 ---
-<ul>
-<li>
-<p>School Bookshop</p>
-<h5><strong>Pacific Bookstores</strong></h5>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>School Bookshop </strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>PACIFIC BOOKSTORES</strong>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,13 +32,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>School Uniform Supplier</p>
-<p><strong>Shanghai School Uniforms Pte Ltd</strong>
-</p>
-</li>
-</ul>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>School Uniform Supplier</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Shanghai School Uniforms Pte Ltd</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -45,9 +52,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>67478037(Retail shop)</p>
+<p>67478037 (Retail shop)</p>
 <p>63522741 (Office number)</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -62,10 +68,17 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<ul>
-<li>
-<p>School Bus Services</p>
-<h5><strong>Leong Chin Bus Services</strong></h5>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>School Bus Services</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Leong Chin Bus Services</strong>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -99,7 +112,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5><strong>Tan's JB-Singapore Bus Services</strong></h5>
+<p></p>
+<p><strong>Tan's JB-Singapore Bus Services</strong>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -125,10 +141,17 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Student Care Services</p>
-<h5><strong>Big Heart Student Care (Innova)</strong></h5>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Student Care Services</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Big Heart Student Care (Innova)</strong>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -163,11 +186,16 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Dental Services</p>
-<h5>Dental Therapist:</h5>
-<h6><strong>Ms Nicole Tan</strong></h6>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Dental Services</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Dental Therapist: Ms Nicole Tan</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -185,11 +213,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>School Dental Clinic</strong>
-<br>
 </p>
 <p><strong>Health Promotion Board Level 4</strong>
-<br><strong><em>3 Second Hospital Ave</em></strong>
+</p>
+<p><strong>3 Second Hospital Ave</strong>
 </p>
 <p></p>
 <table style="minWidth: 50px">
@@ -209,8 +238,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Foreign and permanent resident students will need to pay for dental treatment at the school dental center.</strong>
 </p>
+</div>
+</details>
+</div>
+<ul>
+<li>
+<p></p>
 </li>
 </ul>
 <p></p>
