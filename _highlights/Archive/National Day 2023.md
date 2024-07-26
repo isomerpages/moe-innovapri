@@ -2,10 +2,8 @@
 title: National Day 2023
 permalink: /highlights/events/nationalday2023/
 description: ""
-third_nav_title: Events
+third_nav_title: Archive
 ---
-
-
 ![](/images/nationalday1.jpg)
 
 Innova Primary School was a vibrant hub of patriotic spirit and unity on August 8th as it joyously celebrated National Day. The entire school community, both students and staff, embraced the patriotic theme by wearing red and white tops, symbolizing their pride for the nation. Under the overarching theme for National Day 2023, 'Onwards As One,' the celebration kicked off with a captivating marching contingent that paraded in the school's parade square. The recollection was accompanied by the heartfelt rendition of 'My People, My Home,' a patriotic anthem that resonated deeply with everyone present. Led by dedicated school prefects, Brownies, and Red Cross members, the marching contingent, bolstered by the participation of CCA leaders, embodied the essence of unity and togetherness.

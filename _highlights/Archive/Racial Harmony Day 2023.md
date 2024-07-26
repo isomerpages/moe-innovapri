@@ -2,7 +2,7 @@
 title: Racial Harmony Day 2023
 permalink: /highlights/events/rhd2023/
 description: ""
-third_nav_title: Events
+third_nav_title: Archive
 ---
 As part of our National Education efforts, Innova Primary School commemorated Racial Harmony Day (RHD) from 17 July to 21 July through activities and discussions to enable students to gain a deeper appreciation of racial harmony, multiculturalism, and social cohesion. The theme, Singapore's Multicultural Mosaic, highlights the strength in Singapore's cultural diversity, and the vibrant heritage of our society. 
 We started off the commemoration with an assembly program on 17 July, to remind us about the events in 1964, which led to many casualties due to two communal riots. There were also recess activities for the pupils as they had a chance to play traditional games.

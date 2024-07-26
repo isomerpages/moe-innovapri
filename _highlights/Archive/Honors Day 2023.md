@@ -3,7 +3,7 @@ title: Honors Day 2023
 permalink: /highlights/events/hd2023/
 variant: markdown
 description: ""
-third_nav_title: Events
+third_nav_title: Archive
 ---
 For 15 years, Innova Primary School (IPS) has been a place where dreams are nurtured, where the seeds of imagination are sown, and where the future is being shaped every day. Our beloved school has not only been a source of academic excellence but also a cradle for the aspirations of young hearts.
 Today, 16 Dec 2023, we commemorate this remarkable milestone and our theme for Honour’s Day 2023 is "Together our dreams continue." These words carry a profound message that reminds us of the enduring power of unity and cooperation in the pursuit of our dreams. 
