@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 7.00am - 5.30pm
+        time: 7.00am - 5.00pm
         description: Closed on Weekends and Public Holidays
     maps_link: ""
     title: Address
@@ -21,4 +21,5 @@ contacts:
       - other: <br><p><strong>Have A Question?</strong><br> Ask and get answered on our
           <a href="https://ask.gov.sg/ips#home">[Q&A Page]</a><br></p>
     title: General Enquiries & Feedback
+feedback: ""
 ---
