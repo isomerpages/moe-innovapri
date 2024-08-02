@@ -4,22 +4,77 @@ permalink: /local-partnerships/
 description: ""
 variant: tiptap
 ---
-<h3>Singapore Kindness Movement (SKM)</h3>
-<p>2020 is IPS' 10th year partnering Friend of Singa (FOS) under the Singapore
-Kindness Movement (SKM). The school has been presented the Participation
-Trophy for its collaboration and partnership.</p>
-<p>In 2020, our school's&nbsp;SKM&nbsp;Project "Care Agents, Pass it On"
-was featured under the Heart-warming Community Service segment category.&nbsp;This
-award recognises the efforts of our students who have reached out to the
-wider community during COVID.&nbsp;</p>
-<p>Let's continue to encourage our students to be gracious, kind and helpful
-towards one another&nbsp;and the larger community!</p>
+<p></p>
+<h3>People’s Association (PA) Community Spirit (PACS) Awards </h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>PA Community Spirit Award 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Local Partnersips" src="/images/IPS_Picture1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_award.jpg">
 </div>
+<p></p>
+<p>Innova Primary School is honoured to be the recipient of the People’s
+Association (PA) Community Spirit (PACS) Awards 2024 – Merit Award. This
+award recognises our dedicated efforts in supporting the North West Community
+Development Council (CDC) in building social capital and fostering community
+bonds.</p>
+<p>As a longstanding partner of North West CDC, our school has consistently
+supported various initiatives such as the North West Service Weeks, North
+West WeCare Fund, North West District Meeting, Recycle @ North West, North
+West Giraffe Fund, and many other CDC programmes. These initiatives have
+significantly impacted and uplifted the lives of residents in the North
+West district.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>PA Community Spirit Award 2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Local Partnersips" src="/images/IPS_Picture2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_Community_Spirit_Awards_2023.jpg">
 </div>
+<p></p>
+<p>Innova Primary School is proud to be awarded the People’s Association
+(PA) Community Spirit (PACS) Merit Award for 2023. This award recognizes
+our dedicated efforts in supporting the North West Community Development
+Council (CDC) in building social capital and fostering community bonds.</p>
+<p>As a long-term partner of the North West CDC, our school has consistently
+contributed to various initiatives such as the North West Service Weeks,
+North West WeCare Fund, North West District Meeting, Recycle @ North West,
+North West Giraffe Fund, and many other CDC programs. These efforts have
+significantly impacted and uplifted the lives of residents in the North
+West district.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>PA Community Spirit Award 2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_Community_Spirit_Awards_2022___IPS.jpg">
+</div>
+<p></p>
+<p>Innova Primary School is a proud recipient of the People’s Association
+(PA) Community Spirit Awards 2022 – Merit Award which recognises our efforts
+in supporting the North West Community Development Council in building
+social capital and bonding the community.</p>
+<p>Being a long standing partner of North West CDC, the school has always
+supported the annual WeCare @ North West – Service Weeks and other sustainability
+projects such as WeCare We Recycle @ North West and Keep Clean @ North
+West. Despite the Covid-19 Safe Management Measures, students were able
+to prepare festive packs in school and give them out to the local communities.
+The programmes and initiatives have impacted and benefitted many households
+residing in the North West District.</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <h3>North West Outstanding School Partner Award</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -48,7 +103,6 @@ to December 2023).</p>
 </div>
 </details>
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>North West Outstanding School Partner Award 2023</strong>
@@ -152,13 +206,15 @@ Service, CCA, Leadership and Academics during Academic year (<strong>January to 
 </details>
 </div>
 <p></p>
-<p></p>
-<hr>
 <h3>North West Community Development Council</h3>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>North West Service Week 2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
-<p>2021</p>
-<h4><strong>North West Service Week 2021</strong></h4>
 <p>Since 2014, WeCare @ North West – Service Weeks has been spreading festive
 cheer to low-income residents living in rental blocks within the North
 West District.</p>
@@ -169,18 +225,26 @@ for residents residing at the nearby rental blocks.</p>
 <p>North West CDC has also acknowledged our efforts in their recent write
 up on our support in Service Week 2021.</p>
 <p>Please refer to attached for the link to the published article.</p>
-<p><a href="https://www.facebook.com/nwcdc/posts/3974878859203205" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/nwcdc/posts/3974878859203205</a>
+<p><a href="https://www.facebook.com/nwcdc/posts/3974878859203205" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/nwcdc/posts/3</a>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="North West Service Week 2021" src="/images/North%20West%20Service%20Week%202021.jpg">
 </div>
-</li>
-<li>
-<p>2020</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Chinese New Year Festive Hamper Distribution 2020</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chinese New Year Festive Hamper Distribution 2020" src="/images/CNY-hamper-giving-2020.jpeg">
 </div>
-<h4><strong>Chinese New Year Festive Hamper Distribution 2020</strong></h4>
+<p></p>
 <p>Innova Primary School, together with North West Community Council organized
 a “CNY Festive Hamper Distribution” to the rental unit households on Friday,
 17th&nbsp;January 2020. Each year, CDC will purchase a festive goodie bag
@@ -188,21 +252,61 @@ worth $50 for each of the rental unit household. Our students, parent support
 group, alumni, teachers and school leaders participated in the spreading
 of festive cheers to the needy families by helping with the packing and
 distribution of hampers.&nbsp;</p>
+<p></p>
 <p>Mr Vikram Nair, Adviser to Admiralty GROs graced the occasion by expressing
 his gratitude to all participants. He lauded the effort to reach out to
 the community as meaningful and beneficial to the society. He also distributed
 the hampers alongside staff, pupils and stakeholders. It was indeed a day
 well-spent as it was definitely worthwhile for all the participants to
 be able to play their part in contributing to the community.</p>
-</li>
-</ul>
+</div>
+</details>
+</div>
+<p></p>
+<h3>Singapore Kindness Movement (SKM)</h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2020 SKM&nbsp;Project "Care Agents, Pass it On"</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>2020 is IPS' 10th year partnering Friend of Singa (FOS) under the Singapore
+Kindness Movement (SKM). The school has been presented the Participation
+Trophy for its collaboration and partnership.</p>
+<p>In 2020, our school's&nbsp;SKM&nbsp;Project "Care Agents, Pass it On"
+was featured under the Heart-warming Community Service segment category.&nbsp;This
+award recognises the efforts of our students who have reached out to the
+wider community during COVID.&nbsp;</p>
+<p>Let's continue to encourage our students to be gracious, kind and helpful
+towards one another&nbsp;and the larger community!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:80%;" height="auto" width="100%" alt="Local Partnersips" src="/images/IPS_Picture1.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:80%;" height="auto" width="100%" alt="Local Partnersips" src="/images/IPS_Picture2.jpeg">
+</div>
+</div>
+</details>
+</div>
+<p></p>
 <h3>Fei Yue Family Service Centre</h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Producing handmade sanitisers for residents</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:95%;" height="auto" width="100%" alt="Innova primary’s parents support group, student leaders and teachers producing their own hand sanitizers from scratch" src="/images/Fei%20Yue%20Family%20Service%20Centre.jpg">
 </div>
 <p><em>Innova primary’s parents support group, student leaders and teachers producing their own hand sanitizers from scratch</em>
 </p>
+<p></p>
 <h4><strong>Parents, students and teachers step up and produce handmade sanitisers for residents</strong></h4>
+<p></p>
 <p>On Wednesay, 11th&nbsp;February 2020, Innova primary’s parent support
 group, student leaders and teachers produced their own hand sanitisers
 from scratch, bottled them, and handed it over door to door to more than
@@ -217,3 +321,10 @@ sanitiser from students of Innova Primary School”.</p>
 <p>After the distribution exercise, left over hand sanitisers was left with
 Fei Yue Family Service Centre (Champions Way) so that residents who are
 away during the distribution can collect their sanitiser when they return.</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4></h4>
+<p></p>
