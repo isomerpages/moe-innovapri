@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<h3>People’s Association (PA) Community Spirit (PACS) Awards </h3>
+<h3>People’s Association (PA) Community Spirit (PACS) Awards</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>PA Community Spirit Award 2024</strong>
@@ -263,33 +263,6 @@ be able to play their part in contributing to the community.</p>
 </details>
 </div>
 <p></p>
-<h3>Singapore Kindness Movement (SKM)</h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>2020 SKM&nbsp;Project "Care Agents, Pass it On"</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>2020 is IPS' 10th year partnering Friend of Singa (FOS) under the Singapore
-Kindness Movement (SKM). The school has been presented the Participation
-Trophy for its collaboration and partnership.</p>
-<p>In 2020, our school's&nbsp;SKM&nbsp;Project "Care Agents, Pass it On"
-was featured under the Heart-warming Community Service segment category.&nbsp;This
-award recognises the efforts of our students who have reached out to the
-wider community during COVID.&nbsp;</p>
-<p>Let's continue to encourage our students to be gracious, kind and helpful
-towards one another&nbsp;and the larger community!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Local Partnersips" src="/images/IPS_Picture1.jpeg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Local Partnersips" src="/images/IPS_Picture2.jpeg">
-</div>
-</div>
-</details>
-</div>
 <p></p>
 <h3>Fei Yue Family Service Centre</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -325,6 +298,36 @@ away during the distribution can collect their sanitiser when they return.</p>
 </div>
 </details>
 </div>
+<p></p>
+<h3>Singapore Kindness Movement (SKM)</h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2020 SKM&nbsp;Project "Care Agents, Pass it On"</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>2020 is IPS' 10th year partnering Friend of Singa (FOS) under the Singapore
+Kindness Movement (SKM). The school has been presented the Participation
+Trophy for its collaboration and partnership.</p>
+<p>In 2020, our school's&nbsp;SKM&nbsp;Project "Care Agents, Pass it On"
+was featured under the Heart-warming Community Service segment category.&nbsp;This
+award recognises the efforts of our students who have reached out to the
+wider community during COVID.&nbsp;</p>
+<p>Let's continue to encourage our students to be gracious, kind and helpful
+towards one another&nbsp;and the larger community!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:80%;" height="auto" width="100%" alt="Local Partnersips" src="/images/IPS_Picture1.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:80%;" height="auto" width="100%" alt="Local Partnersips" src="/images/IPS_Picture2.jpeg">
+</div>
+</div>
+</details>
+</div>
+<p></p>
+<h3></h3>
 <p></p>
 <h4></h4>
 <p></p>

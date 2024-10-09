@@ -2,7 +2,7 @@
 title: P5 NE Show @Padang 2023
 permalink: /highlights/events/neshow2023/
 description: ""
-third_nav_title: Events
+third_nav_title: Archive
 ---
 On July 2, 2023, our enthusiastic P5 students proudly wore their red T-shirts in anticipation of the annual NE Show held at Padang. This event serves as a dynamic conduit for achieving the overarching objectives of National Education, aiming to nurture a profound appreciation of Singapore's history, values, and identity within our young learners. Moreover, it provides a unique opportunity for our students to witness the grandeur of the National Day Parade (NDP).
 

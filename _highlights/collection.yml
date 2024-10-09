@@ -2,17 +2,20 @@ collections:
   highlights:
     output: true
     order:
-      - Events/Chinese New Year Celebration 2024.md
-      - Events/P5 NE Show @Padang 2023.md
-      - Events/Earth Day & World Book Day Celebrations 2023.md
       - Events/.keep
+      - Events/National Day 2024.md
+      - Events/NE Show 2024.md
+      - Events/Earth Day & World Book Day Celebrations @ IPS ‘24.md
+      - Events/Racial Harmony Day 2024.md
+      - Events/Chinese New Year Celebration 2024.md
       - Events/Woodgrove World Environment Day 2023.md
+      - Archive/P5 NE Show @Padang 2023.md
+      - Archive/Earth Day & World Book Day Celebrations 2023.md
       - Archive/Racial Harmony Day 2023.md
       - Archive/Art Club Learning Journey 2023.md
       - Archive/National Day 2023.md
       - Archive/Honors Day 2023.md
       - Archive/Chinese New Year 2023.md
       - Archive/Total Defence Day 2023.md
-      - Archive/World Book Day.md
       - Archive/.keep
       - Archive/The Innova Experience 2022.md

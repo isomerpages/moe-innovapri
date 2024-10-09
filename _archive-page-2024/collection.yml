@@ -2,4 +2,5 @@ collections:
   archive-page-2024:
     output: true
     order:
+      - World Book Day.md
       - example-page.md
