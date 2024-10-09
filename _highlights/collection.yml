@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Events/Mother Tongue Fortnight 2024.md
       - Events/.keep
       - Events/National Day 2024.md
       - Events/NE Show 2024.md
