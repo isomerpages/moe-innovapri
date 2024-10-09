@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Events
           description: Browse  school events here
-          url: https://www.innovapri.moe.edu.sg/tdd2023/
+          url: https://www.innovapri.moe.edu.sg/national-day-2024/
         - title: FT Connect
           description: Contact Form Teachers here
           url: https://sites.google.com/moe.edu.sg/ft-connect/home
