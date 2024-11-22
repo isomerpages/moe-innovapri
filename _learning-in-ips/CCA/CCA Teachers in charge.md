@@ -3,138 +3,232 @@ title: CCA Teachers in charge
 permalink: /cca-teachers-in-charge/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
 <h3>SPORTS</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>TRACK AND FIELD</p>
-</th>
-<th rowspan="1" colspan="1">
-<br>Mdm Er Kang Ning
-<br>Mr Lau Kai Siong
-<br>Mr Ng Sui Yong
-<br>Mdm Elsie Lim
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TABLE TENNIS</p>
+<td rowspan="4" colspan="1">
+<p>Track and Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chin Jian Yuh
-<br>Mdm He Jian
-<br>Mr Lee Song Lin Sean
-<br>Ms Lee Woen Shin </p>
+<p>Mdm Er Kang Ning&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VOLLEYBALL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Wei Jie
-<br>Ms Siti Nur Iman 
-<br>Ms Nur Hazwani
-<br>Mdm Liu Wen JIa 
-</p>
+<p>Mr Lau Kai Siong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WUSHU</p>
+<p>Mr Ng Sui Yong&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Elsie Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS YONG
-<br>MS WOON
-<br>MS HILDA MUN</p>
+<p>Mr Chin Jian Yuh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm He Jian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Woen Shin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Vollyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Wei Jie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nur Iman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Wen Jia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Hazwani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Yong Ai Meen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Woon Mei Yiok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hilda Mun&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>UNIFORMED GROUPS</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>GIRL GUIDES (BROWNIES)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MDM MAIMONA
-<br>MS LIN
-<br>MS ESTHER ONG
-<br>MDM AFIQAH</p>
-</th>
+<td rowspan="4" colspan="1">
+<p>Girl Guides (BROWNIES)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Maimona</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RED CROSS YOUTH</p>
+<p>Ms Lin&nbsp;Yashi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Esther Ong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Afiqah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Red Cross Youth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM HASLINDA
-<br>MS PAN
-<br>MDM MIAO</p>
+<p>Mdm Haslinda</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Pan Xiuling</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h3>CLUBS &amp; SOCIETIES</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>ARTS &amp; CRAFTS CLUB</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MDM KARMILAH
-<br>MDM PANG
-<br>MDM SUMATHI</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ENVIRONMENTAL SCIENCE CLUB</p>
+<td rowspan="3" colspan="1">
+<p>Arts &amp; Crafts Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM LAI
-<br>MR CHIEN
-<br>MDM SURIA</p>
+<p>Mdm Karmilah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ENGLISH LANGUAGE, DRAMA, DEBATING SOCIETY (ELDDS) &amp; LIBRARY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS SURIYA
-<br>MDM NISHA
-<br>MDM JUNAIDAH
-<br>MS FARAH</p>
+<p>Mdm Pang Lee Yee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHOIR &amp; HARMONICA</p>
+<p>Mdm Sumathi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Environmental Science Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR CHONG
-<br>MRS LINDA CHAN
-<br>MRS JAMES
-<br>MDM WENG</p>
+<p>Mdm Lai Nai Huey</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MALAY &amp; CHINESE DANCE</p>
+<p>Mr Joel Chien</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Suria&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>English Language, Dama, Debating Society (ELDDS) &amp; Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM VALLI
-<br>MS ESTHER CHANG
-<br>MDM NURDIANAH
-<br>MDM JULIANA
-<br>MDM CHONG</p>
+<p>Ms Suriya&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nisha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Junaidah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Farah&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Choir and Harmonica</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chong&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Linda Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs James</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Weng Tingting</p>
 </td>
 </tr>
 </tbody>
