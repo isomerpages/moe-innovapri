@@ -41,22 +41,25 @@ description: ""
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the application
 form. You may also request for a hardcopy from the School’s General Office.</p>
-<p><strong><u>Application Form</u></strong>
+<p><strong><a href="/files/Application_for_Canteen_Stall_in_Existing_School.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Application Form</u></a></strong>
 </p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attached the following documents together
-with the application form:</p>
+<p>2.&nbsp; Attached the following documents together with the application
+form:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items</p>
 </li>
 <li>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc</p>
 </li>
 </ul>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit the completed application form,
-Annex A and any other documents by closing date (Friday, 6 Dec 2024) to
-the School's General Office.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit the completed application form
+and any other documents by closing date (Friday, 6 Dec 2024) to the School's
+General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 80 Woodlands Drive 17, Singapore 737888</p>
@@ -117,8 +120,8 @@ Programme (HMSP)" guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools/s
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.</p>
+<p>Successful applicant and stall assistant(s) must possess the Workforce
+Skills Qualifications (WSQ) Food Safety Course (FSC) Level 1.</p>
 </li>
 <li>
 <p>Possess catering experience or experience operating in a school environment.</p>
@@ -130,3 +133,4 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
+<p>&nbsp;</p>
