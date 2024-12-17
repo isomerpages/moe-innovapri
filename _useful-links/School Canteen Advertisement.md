@@ -58,8 +58,7 @@ etc</p>
 </li>
 </ul>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit the completed application form
-and any other documents by closing date (Friday, 6 Dec 2024) to the School's
-General Office.</p>
+and any other documents by closing date to the School's General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 80 Woodlands Drive 17, Singapore 737888</p>
