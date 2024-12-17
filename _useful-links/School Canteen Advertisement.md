@@ -29,7 +29,7 @@ description: ""
 <p>Vegetarian Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday, 31 Dec 2024</p>
+<p>Friday, 10 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
