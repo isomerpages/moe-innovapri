@@ -20,7 +20,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Students reporting day 2025
-          date: 02 January 2025
+          date: 27 December 2024
           announcement: Dear Parents, please refer to the following dates for students to
             report for year 2025  Primary 1 - 2nd January 2025 ,  Primary 1 to
             Primary 6 - 3rd January 2025
