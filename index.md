@@ -15,6 +15,19 @@ sections:
           description: Contact Form Teachers here
           url: https://sites.google.com/moe.edu.sg/ft-connect/home
       background: /images/gif_homepage_5_2024.gif
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: School Reopening 2025
+          date: 30 December 2024
+          announcement: Dear Parents/Guardians, The 2025 school year begins on Thurs /2
+            Jan 2025. Only P1 students report to school on this day. From Fri /3
+            Jan 2025 onwards, all students (P1–P6) will report to school.
+            Students should bring their writing materials, a storybook,water
+            bottle,some money for recess and snacks.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Applied Learning Programme
       button: Read more
