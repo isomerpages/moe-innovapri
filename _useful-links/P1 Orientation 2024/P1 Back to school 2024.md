@@ -5,67 +5,71 @@ variant: markdown
 description: ""
 third_nav_title: P1 Orientation 2024
 ---
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0001.jpg)
+![](/images/Slide3.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0002.jpg)
+![](/images/Slide4.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0003.jpg)
+![](/images/Slide5.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0004.jpg)
+![](/images/Slide6.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0005.jpg)
+![](/images/Slide7.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0006.jpg)
+![](/images/Slide8.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0007.jpg)
+![](/images/Slide9.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0008.jpg)
+![](/images/Slide10.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0009.jpg)
+![](/images/Slide11.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0010.jpg)
+![](/images/Slide12.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0011.jpg)
+![](/images/Slide13.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0012.jpg)
+![](/images/Slide14.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0013.jpg)
+![](/images/Slide15.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0014.jpg)
+![](/images/Slide16.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0015.jpg)
+![](/images/Slide17.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0016.jpg)
+![](/images/Slide18.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0017.jpg)
+![](/images/Slide19.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0018.jpg)
+![](/images/Slide20.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0019.jpg)
+![](/images/Slide21.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0020.jpg)
+![](/images/Slide22.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0021.jpg)
+![](/images/Slide23.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0022.jpg)
+![](/images/Slide24.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0023.jpg)
+![](/images/Slide25.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0024.jpg)
+![](/images/Slide26.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0025.jpg)
+![](/images/Slide27.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0026.jpg)
+![](/images/Slide28.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0027.jpg)
+![](/images/Slide29.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0028.jpg)
+![](/images/Slide30.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0029.jpg)
+![](/images/Slide31.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0030.jpg)
+![](/images/Slide32.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0031.jpg)
+![](/images/Slide33.jpg)
 
-![](/images/P1_Back_to_School_2024_pages_to_jpg_0032.jpg)
+![](/images/Slide34.jpg)
+
+![](/images/Slide35.jpg)
+
+![](/images/Slide36.jpg)
 
