@@ -5,6 +5,8 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
+<p></p>
+<h4><strong>Overall CCA in-charge: Mr Ng Chun Fung</strong></h4>
 <h3>SPORTS</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -14,7 +16,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Track and Field</p>
+<p><strong><u>Track and Field</u></strong>
+</p>
+<p>Monday - 2:15pm - 4:15pm</p>
+<p>Fridays - 2:15pm - 4:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Er Kang Ning&nbsp;</p>
@@ -37,7 +42,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Table Tennis</p>
+<p><strong><u>Table Tennis</u></strong>
+</p>
+<p>Monday - 2:15pm - 4:15pm</p>
+<p>Fridays - 2:15pm - 4:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Woen Shin</p>
@@ -60,7 +68,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Vollyball</p>
+<p><strong><u>Vollyball</u></strong>
+</p>
+<p>Monday - 2:15pm - 5:15pm</p>
+<p>Fridays - 2:15pm - 4:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Wei Jie</p>
@@ -83,7 +94,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Wushu</p>
+<p><strong><u>Wushu</u></strong>
+</p>
+<p>Monday - 2:15pm - 4:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Ai Meen</p>
@@ -110,7 +123,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Girl Guides (BROWNIES)</p>
+<p><strong><u>Girl Guides (BROWNIES)</u></strong>
+</p>
+<p></p>
+<p>Monday - 2:15pm - 4:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Maimona Bte Mohamed</p>
@@ -133,7 +149,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Red Cross Youth</p>
+<p><strong><u>Red Cross Youth</u></strong>
+</p>
+<p></p>
+<p>Monday - 2:15pm - 4:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Haslinda Bte Ibrahim</p>
@@ -156,7 +175,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Arts &amp; Crafts Club</p>
+<p><strong><u>Arts &amp; Crafts Club</u></strong>
+</p>
+<p></p>
+<p>Monday - 2:15pm - 4:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Karmilah Bte Khamis</p>
@@ -174,7 +196,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Environmental Science Club</p>
+<p><strong><u>Environmental Science Club</u></strong>
+</p>
+<p></p>
+<p>Monday - 2:15pm - 4:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lai Nai Huey</p>
@@ -187,7 +212,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>English Language, Drama, Debating Society (ELDDS) &amp; Library</p>
+<p><strong><u>English Language, Drama, Debating Society (ELDDS) &amp; Library</u></strong>
+</p>
+<p></p>
+<p>Monday - 2:15pm - 4:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Faizul Nisha d/o Vappriah Abdul Kader</p>
@@ -203,9 +231,23 @@ variant: tiptap
 <p>Ms Vedhasuriyakala Krishnasamy</p>
 </td>
 </tr>
+</tbody>
+</table>
+<p></p>
+<h3>Performing arts</h3>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Malay Dance</p>
+<p><strong>Malay Dance</strong>
+</p>
+<p></p>
+<p>Monday - 2:15pm - 4:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nurdianah Mohd Muhdi</p>
@@ -218,7 +260,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Chinese Dance</p>
+<p><strong><u>Chinese Dance</u></strong>
+</p>
+<p></p>
+<p>Monday - 2:15pm - 5:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Esther Chang Chin Chin</p>
@@ -230,16 +275,30 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
-<p>Choir and Harmonica</p>
+<td rowspan="2" colspan="1">
+<p><strong><u>Harmonica</u></strong>
+</p>
+<p></p>
+<p>Monday - 2:15pm - 4:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lin Lay Leng Linda</p>
+<p>Mdm Suria Bte Mohd Mortar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suria Bte Mohd Mortar</p>
+<p>Mdm Weng Tingting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong><u>Choir</u></strong>
+</p>
+<p></p>
+<p>Monday - 2:15pm - 4:15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lin Lay Leng Linda</p>
 </td>
 </tr>
 <tr>
@@ -250,11 +309,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Juliana Jamion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Weng Tingting</p>
 </td>
 </tr>
 </tbody>
