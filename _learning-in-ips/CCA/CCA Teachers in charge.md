@@ -244,7 +244,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Malay Dance</strong> 
+<p><strong>Malay Dance</strong>
 </p>
 <p></p>
 <p>Monday - 2:15pm - 4:15pm</p>
