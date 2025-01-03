@@ -22,23 +22,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Elsie Lim Yin Xin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lau Kai Siong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Sui Yong&nbsp;</p>
+<p>Mr Imran Bin Mohd Said</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Elsie Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Table Tennis</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Woen Shin</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Chin Jian Yuh</p>
 </td>
@@ -50,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Woen Shin</p>
+<p>Mr Joel Chien</p>
 </td>
 </tr>
 <tr>
@@ -63,17 +68,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nur Iman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Liu Wen Jia</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hazwani</p>
+<p>Ms Siti Nur Iman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Collin Chew Keng Loon</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +86,7 @@ variant: tiptap
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yong Ai Meen</p>
+<p>Mdm Lee Ai Meen</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +113,7 @@ variant: tiptap
 <p>Girl Guides (BROWNIES)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maimona</p>
+<p>Mdm Maimona Bte Mohamed</p>
 </td>
 </tr>
 <tr>
@@ -118,12 +123,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Ong</p>
+<p>Ms Esther Ong Shu Xian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Afiqah</p>
+<p>Mdm Nurul Afiqah Mohd Fahmi</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +136,7 @@ variant: tiptap
 <p>Red Cross Youth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haslinda</p>
+<p>Mdm Haslinda Bte Ibrahim</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +159,7 @@ variant: tiptap
 <p>Arts &amp; Crafts Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Karmilah</p>
+<p>Mdm Karmilah Bte Khamis</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +173,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Environmental Science Club</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,53 +182,74 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joel Chien</p>
+<p>Mr Ng Sui Yong Chris</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>English Language, Drama, Debating Society (ELDDS) &amp; Library</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Faizul Nisha d/o Vappriah Abdul Kader</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suria&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p>English Language, Dama, Debating Society (ELDDS) &amp; Library</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Suriya&nbsp;</p>
+<p>Mdm Farah Bte Mohd Rezal Heng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nisha</p>
+<p>Ms Vedhasuriyakala Krishnasamy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Malay Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nurdianah Mohd Muhdi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Junaidah</p>
+<p>Ms Komalavalli d/o Algasamy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Esther Chang Chin Chin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Farah&nbsp;</p>
+<p>Mdm Chong Lee Hong</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Choir and Harmonica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong&nbsp;</p>
+<p>Mdm Lin Lay Leng Linda</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Linda Chan</p>
+<p>Mdm Suria Bte Mohd Mortar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs James</p>
+<p>Ms Nur Hazwani Bte Hamzah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Juliana Jamion</p>
 </td>
 </tr>
 <tr>
