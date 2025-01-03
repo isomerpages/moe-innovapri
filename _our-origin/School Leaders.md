@@ -2,8 +2,9 @@
 title: School Leaders
 permalink: /school-leaders/
 description: ""
+variant: markdown
 ---
-![schoolleaders](/images/sl%20pict.jpg)
+![](/images/sl_pict_2025.jpg)
 
 
 Message from Principal
