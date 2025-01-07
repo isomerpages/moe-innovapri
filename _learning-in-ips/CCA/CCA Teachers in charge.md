@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p><strong><u>Vollyball</u></strong>
+<p><strong><u>Volleyball</u></strong>
 </p>
 <p>Monday - 2:15pm - 5:15pm</p>
 <p>Fridays - 2:15pm - 4:15pm</p>
@@ -244,7 +244,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Malay Dance</strong>
+<p><strong><u>Malay Dance</u></strong>
 </p>
 <p></p>
 <p>Monday - 2:15pm - 4:15pm</p>
