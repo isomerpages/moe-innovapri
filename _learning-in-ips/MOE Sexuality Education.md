@@ -69,14 +69,15 @@ are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_2025_11.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_2025_22.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_2025_3.jpg">
