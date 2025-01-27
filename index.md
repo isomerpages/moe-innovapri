@@ -45,6 +45,11 @@ sections:
       url: https://4d.silversea-media.com/view/ipsVirtualGallery/
       image: /images/15_revision4_sides_Camera034.jpg
       alt: Image alt text
+  - infobar:
+      title: MOE Sexuality Education
+      id: infobar
+      button: Click here for more information
+      url: https://www.innovapri.moe.edu.sg/2023-important-information/moesexualityeducation/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
@@ -52,9 +57,4 @@ sections:
       url: https://ask.gov.sg/ips#home
       image: /images/ips-askgov.png
       alt: Image alt text
-  - infobar:
-      title: MOE Sexuality Education
-      id: infobar
-      button: Click here for more information
-      url: https://www.innovapri.moe.edu.sg/2023-important-information/moesexualityeducation/
 ---
