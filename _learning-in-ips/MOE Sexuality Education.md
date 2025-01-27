@@ -77,6 +77,10 @@ themselves safe from sexuality-related risks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_2025_2.jpg">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_2025_3.jpg">
+</div>
 <h4><strong>Information for Parents</strong></h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of Sexuality Education lessons, and/or supplementary Sexuality Education
@@ -85,7 +89,7 @@ programmes by MOE-approved external providers.</p>
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
 is also downloadable <a href="/files/2025_Info_on_SEd_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>. The completed
-opt-out form is to be submitted by 31/01/2025.</p>
+opt-out form is to be submitted by 07/02/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6894
 4693 or email: <a rel="noopener noreferrer nofollow" target="_blank">innova_pri@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
