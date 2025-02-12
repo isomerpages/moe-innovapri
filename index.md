@@ -18,6 +18,26 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Most Inspiring Tamil Teacher Award
+          date: 12 February 2025
+          announcement: Most Inspiring Tamil Teacher Award  Nominations can be made online
+            via (Tamil Form) https://go.gov.sg/mitt2024nominationform OR
+            (English Form) https://go.gov.sg/mitt2024nominationformel by 4 April
+            2025. For more information on the award, please email
+            MOE_TLLPC_Secretariat@moe.gov.sg.
+          link_text: ""
+          link_url: ""
+        - title: Arif Budiman Malay Language Teacher Award
+          date: 12 February 2025
+          announcement: Arif Budiman Malay Language Teacher Award (for all Malay Language
+            Teachers in Mainstream Schools) Nominations can be made online
+            via  https://go.gov.sg/agab2025  by 4 April 2025. For more
+            information on the award, please contact the AGAB 2025 Organising
+            Committee at MOE_MLLPC_Secretariat@moe.gov.sg.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Applied Learning Programme
       button: Read more
