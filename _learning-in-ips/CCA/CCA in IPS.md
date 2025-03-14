@@ -1,6 +1,6 @@
 ---
 title: CCA in IPS
-permalink: /learning-in-ips/cca/2023cca/
+permalink: /learning-in-ips/cca/ccalist/
 description: ""
 third_nav_title: CCA
 variant: markdown

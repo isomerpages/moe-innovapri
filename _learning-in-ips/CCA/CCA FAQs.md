@@ -1,6 +1,6 @@
 ---
 title: CCA FAQs
-permalink: /cca-policy-copy/
+permalink: /ccafaq/
 description: ""
 third_nav_title: CCA
 variant: tiptap
