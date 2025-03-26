@@ -7,21 +7,20 @@ third_nav_title: Events
 ---
 <p><strong>Total Defence Day 2025: Together We Keep Singapore Strong</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>At Innova Primary School, we stand united in our commitment to keeping
 Singapore strong. Each year, Total Defence Day (TDD) is commemorated on
 15 February to remind us of the importance of safeguarding our nation’s
 security, peace, and resilience. This day marks the fall of Singapore to
 the Japanese in 1942, serving as a powerful lesson on the challenges our
 nation has overcome.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>In 2025, the theme "Together We Keep Singapore Strong" reinforced the
 idea that everyone, regardless of age, has a role in defending our country.
 Through a series of immersive activities, our students explored the six
 pillars of Total Defence—Military, Civil, Economic, Social, Digital, and
 Psychological Defence—and discovered how they can contribute to a safer
 and stronger Singapore.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TDD_1.jpg">
@@ -122,21 +121,20 @@ the struggles of wartime rationing.</p>
 <p></p>
 <p>💧 Water rationing drills (led by the Brownies) – A reminder of the importance
 of water conservation and self-sufficiency.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>These activities provided an impactful hands-on experience, helping students
 appreciate Singapore’s peace and security.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Reflections &amp; Conclusion</strong>
 </p>
 <p>Total Defence Day 2025 was a truly immersive and insightful experience
 for all. Through a blend of interactive recess challenges, engaging classroom
 discussions, and hands-on survival activities, our students deepened their
 understanding of national resilience and unity.</p>
-<p>&nbsp;</p>
 <p>As Singapore continues to evolve, it is crucial that we remain prepared—not
 just militarily, but through social cohesion, digital responsibility, and
 psychological resilience. At Innova Primary School, we take pride in nurturing
 young defenders of our nation.</p>
-<p>&nbsp;</p>
+<p></p>
 <h4><strong>Together, we will always keep Singapore strong!</strong></h4>
 <p></p>
