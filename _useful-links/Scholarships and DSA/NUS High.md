@@ -15,7 +15,8 @@ third_nav_title: Scholarships and DSA
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Letter.jpg">
 </div>
 <p></p>
-<p><a href="https://www.nushigh.edu.sg/admissions/open-house/" rel="noopener noreferrer nofollow" target="_blank">https://www.nushigh.edu.sg/admissions/open-house/</a>
+<p></p>
+<p><strong><a href="https://www.nushigh.edu.sg/admissions/open-house/" rel="noopener noreferrer nofollow" target="_blank">https://www.nushigh.edu.sg/admissions/open-house/</a></strong>
 </p>
-<p>For any queries, please email <a href="mailto:newton@highsch.nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">newton@highsch.nus.edu.sg</a>
+<p><strong>For any queries, please email <a href="mailto:newton@highsch.nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">newton@highsch.nus.edu.sg</a></strong>
 </p>
