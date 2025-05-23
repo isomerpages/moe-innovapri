@@ -2,7 +2,6 @@ collections:
   our-origin:
     output: true
     order:
-      - School Leaders and Key Personnel.md
       - School Leaders.md
       - Innova Story.md
       - Vision, Mission & Values.md
