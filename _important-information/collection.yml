@@ -2,5 +2,4 @@ collections:
   important-information:
     output: true
     order:
-      - MOE Sexuality Education.md
       - CareCorner (Parenting Support Service).md
