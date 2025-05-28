@@ -78,9 +78,52 @@ residing in the North West District.</p>
 <h3>North West Outstanding School Partner Award</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>North West Outstanding School Partner Award &amp; Outstanding All Rounders Student (OARS) Award</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>PLATINUM AWARD in 2025</strong>
+</p>
+<p>Innova Primary School is proud to announce that we have been conferred
+the PLATINUM AWARD for the North West Outstanding School Partner Award
+(SPA) 2025! This prestigious accolade recognises schools that have demonstrated
+strong commitment and active participation in Community Development Council
+(CDC) programmes over the past year.</p>
+<p>We are also delighted to celebrate the outstanding achievements of two
+of our 2024 graduates, Bernice Chong Jialing and Cheong Rae Qhin Charliz,
+who have each been awarded the Outstanding All Rounders Student (OARS)
+Award 2025. This esteemed award honours students who exemplify the spirit
+of service and have shown all-rounded excellence in Community Service,
+CCA, Leadership, and Academics during the academic year (January to December
+2024).</p>
+<p>Adding to the celebratory occasion, our school choir was invited to perform
+at the award ceremony, showcasing the talent and spirit of our students
+through a memorable musical performance.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bernice.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Charliz.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IPS_Platinum_Award.jpg">
+</div>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>North West Outstanding School Partner Award 2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p></p>
 <p><strong>PLATINUM AWARD in 2024</strong>
 </p>
@@ -100,6 +143,7 @@ to December 2023).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IPS___NWCDC_Platinum_award.jpg">
 </div>
+<p></p>
 </div>
 </details>
 </div>
