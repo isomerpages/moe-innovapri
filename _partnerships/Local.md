@@ -78,7 +78,7 @@ residing in the North West District.</p>
 <h3>North West Outstanding School Partner Award</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>North West Outstanding School Partner Award &amp; Outstanding All Rounders Student (OARS) Award</strong>
+<summary><strong>North West Outstanding School Partner Award &amp; Outstanding All Rounders Student (OARS) Award 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
