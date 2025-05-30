@@ -102,6 +102,9 @@ through a memorable musical performance.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IPS_Platinum_Award.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bernice.jpg">
 </div>
 <p></p>
@@ -111,9 +114,6 @@ through a memorable musical performance.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IPS_Platinum_Award.jpg">
 </div>
 <p></p>
 <p></p>
