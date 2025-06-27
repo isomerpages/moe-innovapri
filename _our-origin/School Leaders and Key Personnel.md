@@ -507,7 +507,154 @@ description: ""
 <details class="isomer-details">
 <summary>Senior Teacher/Lead Teacher</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Lead Teacher, LN (Educational Support)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Lai Kuan Hoe Leslie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:lai_kuan_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_kuan_hoe@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Lead Teacher, Mathematics</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Allan Tok Wei Ching</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:tok_wei_cheng_allan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tok_wei_cheng_allan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Senior Teacher, Physical Education</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Chua Sophia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:chua_sophia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_sophia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Senior Teacher, Malay Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Noor Ratnawati Binte Osman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:noor_ratnawati_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_ratnawati_osman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Senior Teacher, English Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Shanwaz Iqbal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:Shanwaz_Iqbal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shanwaz_Iqbal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Senior Teacher, Chinese Language</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Lim Chain Koon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:lim_chain_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chain_koon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Senior Teacher, Science</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Zahra Binte Ahmad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:Zahra_Ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zahra_Ahmad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
