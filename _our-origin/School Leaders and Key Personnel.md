@@ -315,7 +315,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Shin Ern Paul @Daniyal Shin</p>
+<p>Shin Ern Paul</p>
 </td>
 </tr>
 <tr>
