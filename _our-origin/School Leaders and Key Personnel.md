@@ -22,7 +22,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Yee Yew Loong</p>
+<p>Mr Yee Yew Loong</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Lau Yean Hui</p>
+<p>Mr Lau Yean Hui</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,8 @@ description: ""
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p><a href="mailto:LAU_Yean_Hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LAU_Yean_Hui@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +62,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>A. Kumara Pathy</p>
+<p>Mr A. Kumara Pathy</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +156,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Soo Kiang Hong Dylan</p>
+<p>Mr Soo Kiang Hong Dylan</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +216,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Lee Wei Ching Tommy</p>
+<p>Mr Lee Wei Ching Tommy</p>
 </td>
 </tr>
 <tr>
@@ -275,7 +276,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Mohamed Khairil Bin Mohamed Jamil</p>
+<p>Mr Mohamed Khairil Bin Mohamed Jamil</p>
 </td>
 </tr>
 <tr>
@@ -295,7 +296,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Tok Kiat Siong</p>
+<p>Mr Tok Kiat Siong</p>
 </td>
 </tr>
 <tr>
@@ -315,7 +316,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Shin Ern Paul</p>
+<p>Mr Shin Ern Paul</p>
 </td>
 </tr>
 <tr>
@@ -335,7 +336,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Rosemardiana Binte Shamsudin</p>
+<p>Mdm Rosemardiana Binte Shamsudin</p>
 </td>
 </tr>
 <tr>
@@ -408,7 +409,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Saravanan S/O Ramakrishnan</p>
+<p>Mr Saravanan S/O Ramakrishnan</p>
 </td>
 </tr>
 <tr>
@@ -468,7 +469,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Ng Chun Fung</p>
+<p>Mr Ng Chun Fung</p>
 </td>
 </tr>
 <tr>
@@ -521,7 +522,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Lai Kuan Hoe Leslie</p>
+<p>Mr Lai Kuan Hoe Leslie</p>
 </td>
 </tr>
 <tr>
@@ -541,7 +542,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Allan Tok Wei Ching</p>
+<p>Mr Allan Tok Wei Ching</p>
 </td>
 </tr>
 <tr>
@@ -621,7 +622,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Lim Chain Koon</p>
+<p>Mr Lim Chain Koon</p>
 </td>
 </tr>
 <tr>
