@@ -307,6 +307,46 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Assistant Year Head, P4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Shin Ern Paul @Daniyal Shin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:shin_ern_paul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shin_ern_paul@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Assistant Year Head, P6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Rosemardiana Binte Shamsudin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:rosemardiana_shamsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosemardiana_shamsudin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
