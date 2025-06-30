@@ -50,7 +50,7 @@ description: ""
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:LAU_Yean_Hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LAU_Yean_Hui@moe.edu.sg</a>
+<p><a href="mailto:lau_yean_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_yean_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -96,7 +96,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Farhain Binte Ahmad Bustami</p>
+<p>Mrs Farhain Bustami Aidil</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Angeline Lim Wee Keng</p>
+<p>Mdm Angeline Lim Wee Keng</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Anusuya D/O Haidas</p>
+<p>Mrs Kumar (Ms Anusuya Haridas)</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Lai Mei San Jessica</p>
+<p>Ms Lai Mei San Jessica</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Yuen Kar Kar Yun Sandra</p>
+<p>Mrs Sandra Kwan</p>
 </td>
 </tr>
 <tr>
@@ -236,7 +236,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Francisca Nair</p>
+<p>Ms Francisca Nair</p>
 </td>
 </tr>
 <tr>
@@ -256,7 +256,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Ong Wei Wei</p>
+<p>Ms Ong Wei Wei</p>
 </td>
 </tr>
 <tr>
@@ -369,7 +369,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Farah Binte Azman</p>
+<p>Ms Farah Binte Azman</p>
 </td>
 </tr>
 <tr>
@@ -389,7 +389,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Lee Xing Yu Angela</p>
+<p>Mrs Sim-Lee Xing Yu Angela</p>
 </td>
 </tr>
 <tr>
@@ -429,7 +429,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Juliana Binte Mohamed Ayob</p>
+<p>Mdm Juliana Binte Mohamed Ayob</p>
 </td>
 </tr>
 <tr>
@@ -449,7 +449,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Chan Fong Mei Susyna</p>
+<p>Mdm Chan Fong Mei Susyna</p>
 </td>
 </tr>
 <tr>
@@ -489,7 +489,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Rafeah Binte Ali</p>
+<p>Mdm Rafeah Bte Ali</p>
 </td>
 </tr>
 <tr>
@@ -562,7 +562,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Chua Sophia</p>
+<p>Mdm Chua Sophia</p>
 </td>
 </tr>
 <tr>
@@ -582,7 +582,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Noor Ratnawati Binte Osman</p>
+<p>Mdm Noor Ratnawati Binte Osman</p>
 </td>
 </tr>
 <tr>
@@ -602,7 +602,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Shanwaz Iqbal</p>
+<p>Mrs Shanwaz Iqbal</p>
 </td>
 </tr>
 <tr>
@@ -642,7 +642,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Zahra Binte Ahmad</p>
+<p>Mdm Zahra Binte Ahmad</p>
 </td>
 </tr>
 <tr>
