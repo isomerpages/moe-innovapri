@@ -8,6 +8,26 @@ variant: tiptap
 <h3>People’s Association (PA) Community Spirit (PACS) Awards</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>PA Community Spirit Awards 2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h1></h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_award_2025.jpg">
+</div>
+<p>Innova Primary School is honoured to receive the People’s Association
+(PA) Community Spirit (PACS) Awards 2025 – Merit Award. This award affirms
+our continued commitment to supporting the North West Community Development
+Council (CDC) in strengthening social capital and fostering community bonds.</p>
+<p>As a long-standing partner of North West CDC, our school has actively
+contributed to various initiatives, including the North West Service Weeks,
+North West WeCare Fund, North West District Meeting, Recycle @ North West,
+North West Giraffe Fund, among others. These efforts have made a meaningful
+difference in the lives of residents across the North West district.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>PA Community Spirit Award 2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -27,12 +47,14 @@ West WeCare Fund, North West District Meeting, Recycle @ North West, North
 West Giraffe Fund, and many other CDC programmes. These initiatives have
 significantly impacted and uplifted the lives of residents in the North
 West district.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>PA Community Spirit Award 2023</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_Community_Spirit_Awards_2023.jpg">
@@ -54,7 +76,6 @@ West district.</p>
 <summary><strong>PA Community Spirit Award 2022</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PA_Community_Spirit_Awards_2022___IPS.jpg">
 </div>
