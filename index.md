@@ -18,16 +18,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      announcement_items:
-        - title: My Seedling's Journey
-          date: 23 May 2025
-          announcement: Thank you for participating in our planting activity at Woodgrove
-            World Environment Day 2025! Share your seedling’s growth by
-            uploading photos within the next two months using the link below.
-            Selected entries may be featured on our social media platforms—let’s
-            inspire others on this green journey!
-          link_text: https://tinyurl.com/ipsseedlinggrowth
-          link_url: https://tinyurl.com/ipsseedlinggrowth
   - infopic:
       title: Applied Learning Programme
       button: Read more
