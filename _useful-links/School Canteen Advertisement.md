@@ -43,8 +43,8 @@ description: ""
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the Application
 Form (<a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>)
-and Annex A (click here). You may also request for a hardcopy from the
-School’s General Office.</p>
+and Annex A (<a href="/files/Annex_A_Stall_1_Cold_Drinks_and_Fresh_Fruits.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>).
+You may also request for a hardcopy from the School’s General Office.</p>
 <p><strong><u>Application Form</u></strong>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attached the following documents together
