@@ -18,6 +18,16 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Caring Teacher Awards 2026
+          date: 19 September 2025
+          announcement: "🌟 Caring Teacher Awards 2026 🌟 Celebrate educators who show
+            care, compassion, and dedication, shaping confident and resilient
+            learners. 🗓️ Nominations close 31 Dec 2026. 👉 Submit here:
+            https://www.cta.nie.edu.sg/"
+          link_text: Click here for submission
+          link_url: https://www.cta.nie.edu.sg/
   - infopic:
       title: Applied Learning Programme
       button: Read more
