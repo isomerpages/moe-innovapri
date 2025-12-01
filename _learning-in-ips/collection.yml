@@ -2,7 +2,6 @@ collections:
   learning-in-ips:
     output: true
     order:
-      - School Calendar.md
       - Departments.md
       - CCA/CCA in IPS.md
       - CCA/.keep
