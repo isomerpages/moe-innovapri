@@ -2,6 +2,14 @@ collections:
   useful-links:
     output: true
     order:
+      - For Parents/.keep
+      - For Parents/Booklist 2026.md
+      - For Parents/Application Form for Leave of Absence.md
+      - For Parents/Resources for Parents.md
+      - P1 Orientation 2026/P and VP Talk on P1 Orientation Day.md
+      - P1 Orientation 2026/P1 orientation day.md
+      - P1 Orientation 2026/P1 Information Guide 2026.md
+      - P1 Orientation 2026/.keep
       - Scholarships and DSA/.keep
       - Scholarships and DSA/NUS High.md
       - Scholarships and DSA/Evergreen Secondary School.md
@@ -11,14 +19,8 @@ collections:
       - Scholarships and DSA/SOTA.md
       - Scholarships and DSA/Anglo Chinese School (Independent).md
       - Scholarships and DSA/SJI International.md
-      - P1 Orientation 2025/.keep
-      - P1 Orientation 2025/P1 Back to school 2025.md
-      - P1 Orientation 2025/Primary One Information Guide.md
-      - P1 Orientation 2025/Welcome Letter by Year Head.md
-      - Application Form for Leave of Absence.md
       - Student Learning Space.md
       - "Student Learning Space: School based Helpdesk.md"
-      - Resources for Parents.md
       - Parent Volunteer Form.md
       - For staff.md
       - Library OPAC.md
