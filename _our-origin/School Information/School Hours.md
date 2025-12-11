@@ -3,84 +3,191 @@ title: School Hours
 permalink: /school-hours/
 description: ""
 third_nav_title: School Information
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uc8z{background-color:#FFF;color:#000000;font-style:italic;text-align:left;vertical-align:top}
-.tg .tg-2toz{background-color:#FFF;color:#F60;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2toz" colspan="2"><span style="font-weight:bold">A) School Hours</span></th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-lm9i"><span style="color:#000">Monday to Friday</span></td>
-    <td class="tg-lm9i"><span style="color:#000">7:30 AM to 1:30 PM</span></td>
-  </tr>
-  <tr>
-    <td class="tg-uc8z" colspan="2">(Pupils will be released from school at a staggered timing)</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>A) School Hours</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day/Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>12:30 PM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>12:45 PM</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1, P2, P3, P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5, P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day/Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1:15 PM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1:30 PM</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1, P2, P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4, P5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1, P2, P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3, P4, P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1, P2, P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4, P5, P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1, P2, P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4, P5, P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>(Pupils will be released from school at a staggered timing)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uc8z{background-color:#FFF;color:#000000;font-style:italic;text-align:left;vertical-align:top}
-.tg .tg-2toz{background-color:#FFF;color:#F60;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2toz" colspan="2"><span style="font-weight:bold">B) Recess Time</span></th>
-  </tr>
-</thead>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-lm9i"><span style="color:#000">P1 and P4</span></td>
-    <td class="tg-lm9i"><span style="color:#000">9 AM to 9:30 AM</span></td>
-  </tr>
-	<tr><td class="tg-lm9i"><span style="color:#000">P2 and P5</span></td>
-	<td class="tg-lm9i"><span style="color:#000">10 AM to 10:30 AM</span>
-  </td></tr><tr>
-		<td class="tg-lm9i"><span style="color:#000">P3 and P6</span></td>
-		<td class="tg-lm9i"><span style="color:#000">9:30 AM to 10 AM</span>
-			</td></tr><tr>
-   
-  </tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>B) Recess Time</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00 AM to 9:30 AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:00 AM - 10:30 AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:45 AM - 10:15 AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:15 AM - 9:45 AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:15 AM - 10:45 AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:30 AM - 10:00 AM</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2toz{background-color:#FFF;color:#F60;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lm9i{background-color:#FFF;color:#808080;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2toz" colspan="2"><span style="font-weight:bold">C) Snack Time</span></th>
-  </tr>
-</thead>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-lm9i" colspan="2"><span style="color:#000">12:15PM</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>C) Snack Time</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>A 5-minute snack break will be scheduled between 12:00 Noon and 12:15
+PM, Monday to Friday.</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
