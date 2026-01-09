@@ -18,8 +18,8 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p><strong><u>Track and Field</u></strong>
 </p>
-<p>Monday - 2:15pm - 4:15pm</p>
-<p>Fridays - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:15pm</p>
+<p>Wednesday - 2:15pm - 4:15pm School Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Er Kang Ning&nbsp;</p>
@@ -37,23 +37,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Imran Bin Mohd Said</p>
+<p>Ms Teo Yu Qing Clarice</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
 <p><strong><u>Table Tennis</u></strong>
 </p>
-<p>Monday - 2:15pm - 4:15pm</p>
-<p>Fridays - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:15pm</p>
+<p>Wednesday - 2:15pm - 4:15pm School Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Woen Shin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chin Jian Yuh</p>
+<p>Mr Joel Chien</p>
 </td>
 </tr>
 <tr>
@@ -63,15 +58,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joel Chien</p>
+<p>Mr Chin Jian Yuh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Duraisamy Sahayamary</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
 <p><strong><u>Volleyball</u></strong>
 </p>
-<p>Monday - 2:15pm - 5:15pm</p>
-<p>Fridays - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:45pm</p>
+<p>Wednesday - 2:15pm - 4:15pm School Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Wei Jie</p>
@@ -89,17 +89,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Collin Chew Keng Loon</p>
+<p>Ms Li Huili</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
 <p><strong><u>Wushu</u></strong>
 </p>
-<p>Monday - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Ai Meen</p>
+<p>Mr Collin Chew</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hilda Mun&nbsp;</p>
+<p>Mdm Lee Ai Meen</p>
 </td>
 </tr>
 </tbody>
@@ -122,19 +122,14 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong><u>Girl Guides (BROWNIES)</u></strong>
 </p>
 <p></p>
-<p>Monday - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Maimona Bte Mohamed</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lin&nbsp;Yashi</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +147,8 @@ variant: tiptap
 <p><strong><u>Red Cross Youth</u></strong>
 </p>
 <p></p>
-<p>Monday - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:15pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Haslinda Bte Ibrahim</p>
@@ -178,7 +174,7 @@ variant: tiptap
 <p><strong><u>Arts &amp; Crafts Club</u></strong>
 </p>
 <p></p>
-<p>Monday - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Karmilah Bte Khamis</p>
@@ -196,10 +192,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong><u>Environmental Science Club</u></strong>
+<p><strong><u>STEM Club</u></strong>
 </p>
 <p></p>
-<p>Monday - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lai Nai Huey</p>
@@ -207,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Sui Yong Chris</p>
+<p>Mdm Yap Poh Keng</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +211,7 @@ variant: tiptap
 <p><strong><u>English Language, Drama, Debating Society (ELDDS) &amp; Library</u></strong>
 </p>
 <p></p>
-<p>Monday - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Faizul Nisha d/o Vappriah Abdul Kader</p>
@@ -247,10 +243,29 @@ variant: tiptap
 <p><strong><u>Malay Dance</u></strong>
 </p>
 <p></p>
-<p>Monday - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:15pm</p>
+<p>SYF Period - 1:15pm - 4:15pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nurdianah Mohd Muhdi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Hazwani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong><u>Chinese Dance</u></strong>
+</p>
+<p></p>
+<p>Monday - 1:15pm - 3:15pm</p>
+<p>SYF Period - 1:15pm - 4:15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Yashi</p>
 </td>
 </tr>
 <tr>
@@ -259,19 +274,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p><strong><u>Chinese Dance</u></strong>
-</p>
-<p></p>
-<p>Monday - 2:15pm - 5:15pm</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Esther Chang Chin Chin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chong Lee Hong</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +283,9 @@ variant: tiptap
 <p><strong><u>Harmonica</u></strong>
 </p>
 <p></p>
-<p>Monday - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:15pm</p>
+<p>SYF Period - 1:15pm - 4:15pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suria Bte Mohd Mortar</p>
@@ -295,20 +301,21 @@ variant: tiptap
 <p><strong><u>Choir</u></strong>
 </p>
 <p></p>
-<p>Monday - 2:15pm - 4:15pm</p>
+<p>Monday - 1:15pm - 3:15pm</p>
+<p>SYF Period - 1:15pm - 4:15pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Juliana Jamion</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lin Lay Leng Linda</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hazwani Bte Hamzah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Juliana Jamion</p>
+<p>Mr Jonathan Low</p>
 </td>
 </tr>
 </tbody>
