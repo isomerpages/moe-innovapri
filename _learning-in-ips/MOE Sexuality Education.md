@@ -22,12 +22,13 @@ communities in Singapore on sexuality issues.</p>
 <p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
 Education are:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">(a) Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</a>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">(b) Guide students to make wise, informed and responsible decisions on sexuality matters.</a>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">(c) Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</a>
-</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help Students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
 <p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>

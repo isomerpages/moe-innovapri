@@ -71,7 +71,7 @@ variant: tiptap
 <p><strong><u>Volleyball</u></strong>
 </p>
 <p>Monday - 1:15pm - 3:45pm</p>
-<p>Wednesday - 2:15pm - 4:15pm School Team</p>
+<p>Wednesday - 2:15pm - 4:45pm School Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Wei Jie</p>
