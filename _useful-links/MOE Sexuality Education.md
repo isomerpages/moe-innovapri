@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Education
-permalink: /2023-important-information/moesexualityeducation/
+permalink: /sexuality-education/
 description: ""
 variant: tiptap
 ---
