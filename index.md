@@ -59,7 +59,7 @@ sections:
       title: MOE Sexuality Education
       id: infobar
       button: Click here for more information
-      url: https://www.innovapri.moe.edu.sg/2023-important-information/moesexualityeducation/
+      url: https://www.innovapri.moe.edu.sg/sexuality-education/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
