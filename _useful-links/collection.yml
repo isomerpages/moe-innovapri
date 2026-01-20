@@ -2,15 +2,14 @@ collections:
   useful-links:
     output: true
     order:
-      - MOE Sexuality Education.md
       - For Parents/.keep
       - For Parents/Booklist 2026.md
       - For Parents/Application Form for Leave of Absence.md
       - For Parents/Resources for Parents.md
+      - P1 Orientation 2026/.keep
       - P1 Orientation 2026/P and VP Talk on P1 Orientation Day.md
       - P1 Orientation 2026/P1 orientation day.md
       - P1 Orientation 2026/P1 Information Guide 2026.md
-      - P1 Orientation 2026/.keep
       - Scholarships and DSA/.keep
       - Scholarships and DSA/NUS High.md
       - Scholarships and DSA/Evergreen Secondary School.md
@@ -26,3 +25,4 @@ collections:
       - For staff.md
       - Library OPAC.md
       - Group Personal Accident Insurance (For Students).md
+      - MOE Sexuality Education.md
