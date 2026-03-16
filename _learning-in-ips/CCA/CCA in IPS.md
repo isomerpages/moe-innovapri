@@ -19,6 +19,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chinese Dance" src="/images/Chinese%20Dance%20CCA.jpg">
 </div>
+	
+	
 </th>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -84,6 +86,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+	<a></a>
 <img style="width: 100%" height="auto" width="100%" alt="Volleyball CCA" src="/images/Volleyball%20CCA.jpg">
 </div>
 <p></p>
