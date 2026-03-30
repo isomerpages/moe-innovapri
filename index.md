@@ -28,6 +28,12 @@ sections:
             https://www.cta.nie.edu.sg/"
           link_text: Click here for submission
           link_url: https://www.cta.nie.edu.sg/
+        - title: 2026 LEAP Award Nominations
+          date: 30 March 2026
+          announcement: 2026 LEAP Award Nominations Open Now! Submit your nomination via
+            All Ears https://forms.moe.edu.sg/forms/JMNKZX by 15 April.
+          link_text: Click here for submission
+          link_url: https://forms.moe.edu.sg/forms/JMNKZX
   - infopic:
       title: Applied Learning Programme
       button: Read more
