@@ -21,7 +21,10 @@ variant: tiptap
 </td>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ips-rcy-cca/home"><img style="width: 100%" height="auto" width="100%" alt="Red Cross Youth" src="/images/Red%20Cross%20Youth%20CCA.jpg"></a>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ips-esc-cca/home"><img style="width: 100%" height="auto" width="100%" src="/images/stem_v1_2.png"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_Banner3.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -31,7 +34,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ips-gg-b-cca/home"><img style="width: 100%" height="auto" width="100%" alt="Girl Guides Brownies" src="/images/Girl%20Guides%20and%20Brownies%20CCA.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ips-eldds-lib-cca/home"><img style="width: 100%" height="auto" width="100%" src="/images/ELDDS.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELDDS_banner1.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -50,7 +56,6 @@ variant: tiptap
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ips-he-cca/home"><img style="width: 100%" height="auto" width="100%" alt="Harmonica" src="/images/Harmonica%20Ensemble%20CCA.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ips-vb-cca/home"><img style="width: 100%" height="auto" width="100%" alt="Volleyball CCA" src="/images/Volleyball%20CCA.jpg"></a>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
