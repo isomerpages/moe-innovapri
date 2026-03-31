@@ -9,9 +9,9 @@ variant: tiptap
 <details class="isomer-details">
 <summary>When can my child/ward apply for a CCA?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The CCA Selection Exercise is held around Term 2 Week 5 annually. A form
-will be sent via Parents Gateway. Your child / ward will receive the results
-for the CCA Selection Exercise before the start of Semester 2.</p>
+<p>The CCA Selection Exercise is held around Term 2 Week 7 annually. A form
+will be sent via Parents Gateway (PG). Your child / ward will receive the
+results for the CCA Selection Exercise before the start of Semester 2.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -51,11 +51,10 @@ they are not keen in.</p>
 <summary>When can my child/ward change or quit CCA?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Any changes to CCA can only be done during the CCA Selection Exercise
-in Term 2 Week 5 to Week 7 via the form sent on Parents Gateway. However,
-should your child/ward have medical condition(s) or other urgent matters
-that prevent him/her from participating in CCA, do contact the CCA teacher-in-charge
-to provide the necessary information so that your child/ward can be removed
-from the CCA.</p>
+in Term 2 Week 7 via the form sent on Parents Gateway. However, should
+your child/ward have medical condition(s) or other urgent matters that
+prevent him/her from participating in CCA, do contact the CCA teacher-in-charge
+to provide the necessary information.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -67,24 +66,25 @@ is expected to attend the CCA as assigned. CCA teachers will be checking
 on your child’s/ward’s attendance to ensure that it is regular, similar
 to daily school attendance. Should your child/ward miss CCA sessions without
 valid reason(s), his/her poor attendance will be recorded and reflected
-accordingly. Subsequently, your child/ward will be removed from the CCA
-to ensure that more committed students can replace him/her.</p>
+accordingly. Subsequently, your child/ward will be withdrawn from the CCA
+and the vacancy will be given to other pupils.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>How is my child/ward selected for a CCA</summary>
+<summary>How is my child/ward allocated a CCA?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A balloting system is used to assign your child/ward to one of the CCAs
-of their choice. Through the balloting system, not only do we ensure fairness,
-but we also ensure that each CCA has a good mix of students from different
-genders, levels, classes etc. In addition, we keep the cohort size of the
-CCAs in alignment to the available resources in the school e.g. space and
-teachers available for each CCA, to ensure that the CCA runs safely and
-effectively.</p>
+<p>Pupils are allocated to CCAs based on available places. When a CCA receives
+more applications than available spots, a balloting system is employed
+to assign your child/ward to one of their preferred CCAs as indicated on
+the CCA Selection Form. This balloting system not only ensures fairness
+but also maintains a balanced mix of students across different genders,
+year levels, and classes within each CCA. Additionally, we manage CCA group
+sizes according to the school's available resources, such as space and
+teaching staff, to ensure each CCA operates safely and effectively.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What is the CCA Policy for?</summary>
+<summary>What is the CCA Commitment Policy for?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CCA Policy is to enable Primary 3 – Primary 6 students to stay committed
 to their assigned CCAs for at least 2 years. This is to give a fair and
@@ -95,10 +95,10 @@ knowledge, skills and values.</p>
 <details class="isomer-details">
 <summary>When are Primary 6 students excused from attending CCA?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Primary 6 students are excused from attending CCAs by the end of Term
-2. This is to give them time to concentrate on their academic pursuits
-and gear up for PSLE. At the same time, it also allows the school to take
-in new batches of students in each CCA.</p>
+<p>Primary 6 students will step down from their CCA involvement at the end
+of Semester 1 (May). This is to give them time to concentrate on their
+academic pursuits and gear up for PSLE. At the same time, it also allows
+the school to take in new batches of students in each CCA.</p>
 <p>Primary 6 students are more than welcomed to continue contributing to
 their CCAs post-PSLE.</p>
 </div>
