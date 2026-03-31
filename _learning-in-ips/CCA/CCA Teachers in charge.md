@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <h4><strong>Overall CCA in-charge: Mr Ng Chun Fung</strong></h4>
-<h3>SPORTS</h3>
+<h3>SPORTS &amp; GAMES</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -122,7 +122,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong><u>Girl Guides (BROWNIES)</u></strong>
 </p>
 <p></p>
@@ -140,6 +140,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurul Afiqah Mohd Fahmi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Shu-Yi Pearl</p>
 </td>
 </tr>
 <tr>
@@ -242,10 +247,11 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p><strong><u>Malay Dance</u></strong>
 </p>
-<p></p>
 <p>Monday - 1:15pm - 3:15pm</p>
-<p>SYF Period - 1:15pm - 4:15pm</p>
 <p></p>
+<p>SYF Period -</p>
+<p>Monday - 1:15pm - 4:15pm</p>
+<p>Wednesday - 2.15pm - 4.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nurdianah Mohd Muhdi</p>
