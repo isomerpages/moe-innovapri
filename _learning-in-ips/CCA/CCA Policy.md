@@ -38,17 +38,21 @@ Through CCA, pupils develop a sense of identity and belonging to the school.</p>
 <p>To encourage sustained participation and progressive development of skills,
 values and attitudes through CCAs, your child / ward in Primary 3 to 6
 is strongly encouraged to commit to his / her CCA for at least 2 or more
-years.</p>
-<p>If your child / ward does not fulfil the 2 year CCA commitment, he / she
-may not be considered&nbsp;for a change in CCA until the subsequent year’s
-CCA Selection Exercise. Please note that alternative requests with valid
-reasons and supporting documents will be considered on a case-by-case basis
-by the PE &amp; CCA department.</p>
-<p>A CCA Selection Form will be issued through PG in Term 2 Week 5. Please
+years. This will allow your child / ward to be fully developed in his /
+her chosen area of interest, build meaningful relationships with peers
+and teachers, and experience the satisfaction of seeing their progress
+over time.</p>
+<p>If your child / ward does not fulfil the 2-year CCA commitment, he / she
+may not be considered for a change in CCA and the CCA vacancies will be
+prioritised for those who meet this requirement. Please note that alternative
+requests with valid reasons and supporting documents will be considered
+on a case-by-case basis by the PE &amp; CCA department.</p>
+<p>A CCA Selection Form will be issued through PG from Term 2 Week 7. Please
 note that all CCA requests must be made during this CCA Selection Exercise.
 No action is required if your child / ward would like to remain in the
 current CCA.</p>
-<p>The CCA Selection Exercise is the period where your child / ward can:
+<p>The annual CCA Selection Exercise is the period where your child / ward
+can:
 <br>1. Join a new CCA, if currently not enrolled.</p>
 <p>2. Change to another CCA.</p>
 <p>3. Withdraw from the current CCA.</p>
