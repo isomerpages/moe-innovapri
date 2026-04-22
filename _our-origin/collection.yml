@@ -2,12 +2,12 @@ collections:
   our-origin:
     output: true
     order:
-      - Safety and Well Being.md
       - School Leaders.md
       - School Leaders and Key Personnel.md
       - Innova Story.md
       - Vision, Mission & Values.md
       - School Song & Crest.md
+      - Safety and Well Being.md
       - School Information/.keep
       - School Information/School Hours.md
       - School Information/School Attire.md
