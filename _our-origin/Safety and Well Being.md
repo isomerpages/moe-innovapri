@@ -3,7 +3,6 @@ title: Safety and Well Being
 permalink: /safety-and-well-being/
 variant: tiptap
 description: ""
-third_nav_title: School Information
 ---
 <h2><strong>Safety and Well‑Being at Innova Primary School</strong></h2>
 <h4><strong>Safety Vision</strong></h4>
