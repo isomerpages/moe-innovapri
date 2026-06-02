@@ -3,7 +3,7 @@ title: Chinese New Year Celebration 2024
 permalink: /chinese-new-year-celebration-2024/
 variant: tiptap
 description: ""
-third_nav_title: Events
+third_nav_title: Archive
 ---
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2月9日，是万千华人期待已久的日子，一年一度的华人新年来了。今年，星烁小学的师生们再次共聚一堂，在欢乐声中迎接新的一年的到来。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 庆祝会开始之前，同学们在课室里了解了新年的由来和风俗习惯，也进行了一些和龙有关的手工制作和彩纸。大家利用手头的资源，互相合作，一起做出许许多多精美的作品，而这些被赋予爱和幸福做出来的作品，在星烁的各个角落高高地挂着，在课室，在办公室，还在大家的心里。</p>

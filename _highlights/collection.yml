@@ -2,6 +2,8 @@ collections:
   highlights:
     output: true
     order:
+      - Events/World Book Day & Earth Day 2026.md
+      - Events/Hari Raya Celebration 2026.md
       - Events/P1 & P2 Engage–Experience–Extend (E³) Programme.md
       - Events/Total Defence Day 2025.md
       - Events/.keep
@@ -10,7 +12,7 @@ collections:
       - Events/Earth Day & World Book Day Celebrations @ IPS ‘24.md
       - Events/Racial Harmony Day 2024.md
       - Events/Mother Tongue Fortnight 2024.md
-      - Events/Chinese New Year Celebration 2024.md
+      - Archive/Chinese New Year Celebration 2024.md
       - Archive/Woodgrove World Environment Day 2023.md
       - Archive/P5 NE Show @Padang 2023.md
       - Archive/Earth Day & World Book Day Celebrations 2023.md
