@@ -8,7 +8,8 @@ variant: tiptap
 <h3>People’s Association (PA) Community Spirit (PACS) Awards</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>PA Community Spirit Awards 2025</summary>
+<summary><strong>PA Community Spirit Awards 2025</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h1></h1>
 <p></p>
@@ -99,6 +100,46 @@ residing in the North West District.</p>
 <h3>North West Outstanding School Partner Award</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>North West Outstanding School Partner Award &amp; Outstanding All Rounders Student (OARS) Award 2026</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+<p><strong>PLATINUM AWARD in 2026</strong>
+</p>
+<p>Innova Primary School is proud to be conferred the Platinum Award for
+the North West Outstanding School Partner Award (SPA) 2026. This prestigious
+recognition affirms the school’s strong commitment and active partnership
+with the Community Development Council (CDC), reflecting our sustained
+efforts in nurturing students who care for and contribute meaningfully
+to the community.</p>
+<p>We are also delighted to celebrate the outstanding achievements of two
+of our 2025 graduates, Hana Binte Syaiful Hilmi and Wei Ningxin, who have
+each been awarded the Outstanding All Rounders Student (OARS) Award 2026.
+This award recognises students who demonstrate excellence across Community
+Service, Co-Curricular Activities (CCA), Leadership and Academics, while
+exemplifying a strong spirit of service.</p>
+<p>These achievements reflect our continued commitment to developing confident
+individuals, self-directed learners, active contributors and concerned
+citizens. Innova Primary School will continue to empower our students to
+care for the community and lead through serving.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NW_OARS_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NW_OARS_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NW_OARS_2.jpg">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>North West Outstanding School Partner Award &amp; Outstanding All Rounders Student (OARS) Award 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -121,14 +162,13 @@ CCA, Leadership, and Academics during the academic year (January to December
 at the award ceremony, showcasing the talent and spirit of our students
 through a memorable musical performance.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IPS_Platinum_Award.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bernice.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Charliz.jpg">
 </div>
@@ -137,14 +177,12 @@ through a memorable musical performance.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir.jpg">
 </div>
 <p></p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>North West Outstanding School Partner Award 2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p></p>
 <p><strong>PLATINUM AWARD in 2024</strong>
 </p>
@@ -160,11 +198,9 @@ who exemplify the ethos of altruism and demonstrate excellence in Community
 Service, CCA, Leadership, and Academics during the Academic year (January
 to December 2023).</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IPS___NWCDC_Platinum_award.jpg">
 </div>
-<p></p>
 </div>
 </details>
 </div>
