@@ -110,26 +110,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Head of Department, Mathematics</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Mdm Angeline Lim Wee Keng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><a href="mailto:lim_wee_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wee_keng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
 <p><strong>Head of Department, Science</strong>
 </p>
 </td>
@@ -205,26 +185,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="2">
 <p><a href="mailto:yuen_kar_yun_sandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuen_kar_yun_sandra@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Head of Department, Physical Education</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Mr Lee Wei Ching Tommy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><a href="mailto:lee_wei_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wei_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -310,7 +270,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Assistant Year Head, P4</strong>
+<p><strong>Assistant Year Head, P3</strong>
 </p>
 </td>
 </tr>
@@ -330,7 +290,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Assistant Year Head, P6</strong>
+<p><strong>Assistant Year Head, P5</strong>
 </p>
 </td>
 </tr>
@@ -345,6 +305,26 @@ description: ""
 </td>
 <td rowspan="1" colspan="2">
 <p><a href="mailto:rosemardiana_shamsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosemardiana_shamsudin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Assistant Year Head, P6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Ms Vedhasuriyakala Krishnasamy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:vedhasuriyakala_krishnasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vedhasuriyakala_krishnasamy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
