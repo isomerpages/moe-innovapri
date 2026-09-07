@@ -4,9 +4,9 @@ permalink: /group-personal-accident-gpa/
 description: ""
 variant: tiptap
 ---
-<p>The updated 2025 product factsheet for the NTUC Income Group Personal
+<p>The updated 2026 product factsheet for the NTUC Income Group Personal
 Accident (GPA) Insurance Plan for Students is attached for your reference.</p>
-<p>With effect from 2025 all student accident insurance claims submission
+<p>With effect from 2026 all student accident insurance claims submission
 are to be submitted electronically.&nbsp; Parents/students are to submit
 their claims online and check the claims status through the online portal.
 Schools are required to verify the claims information and access the claims
