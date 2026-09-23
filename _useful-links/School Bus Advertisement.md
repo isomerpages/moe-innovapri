@@ -32,7 +32,7 @@ Procedure below.</p>
 Singapore 737888</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Number: 6894-4693</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="mailto:ONG_Li_Li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ONG_Li_Li@schools.gov.sg</a> /
-<a href="mailto:innovapri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">innovapri@moe.edu.sg</a>
+<a href="mailto:innovapri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">innova_pri@moe.edu.sg</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Ms Ong Li Li, Administration
 Manager</p>
